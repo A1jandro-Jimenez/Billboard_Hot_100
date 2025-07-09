@@ -1,5 +1,5 @@
-# Billboard_Analytics_Project
-## Billboard Hot 100 Year End Charts Analysis (2020-2024)
+#  Billboard Hot 100 Year End Charts Analysis (2020-2024)
+## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the Unitied States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determined its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
 ## Project Goals
 When creating the project, I had the following goals in mind that I wanted to achive:
