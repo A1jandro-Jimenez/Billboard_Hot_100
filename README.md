@@ -1,2 +1,2 @@
-# Billboard_Analytics_Porject
+# Billboard_Analytics_Project
 Billboard Hot 100 Year End Chart Analysis (2020-2024)
