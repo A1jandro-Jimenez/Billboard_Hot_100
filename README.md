@@ -64,4 +64,26 @@ Set Song_Length = 200 ,
 Where Title = 'Blinding Lights'; 
 
 ```
-In order to make the analyzing process easier, I applied my basic knowldgde of data normazlation and created a refrance table for both the artists and genres to avoid redudancy. Primary and foregin keys were given to all the tables created for easier analzysis. This gave us a complete song dataset with all the song information, an artists refrance table, and a genres refreance table. 
+In order to make the analyzing process easier, I applied my basic knowldgde of data normazlation and created a refrance table for both the artists and genres to avoid redudancy. Primary and foregin keys were given to all the tables created for easier analzysis. This gave us a complete song dataset with all the songs information, an artists refrance table, and a genres refreance table. 
+### Analysis 
+To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide somw questions about my dataset in order to help achive my goals. The following questions were chosen: 
+#### Descriptive Analysis
+1. What are the most common genres represented in the Year-End Hot 100?
+2. Which artists appear most frequently on the list?
+3. What is the distribution of song ranks for solo artists vs. collaborations?
+4. Which album contains the most entries across all five years?
+#### Trend Analysis
+1. Are certain genres becoming more or less popular over time?
+2. Are collaborations becoming more frequent on the chart over time?
+#### Artist and Song-Level Analysis
+1. What is the relationship between song duration and its rank on the Year-End chart?
+2. How does the number of featured artists correlate with chart success?
+#### Comparative Analysis
+1. How does the average rank differ between rap, pop, and country songs?
+#### Predictive/Advanced Analysis
+1. What features best predict a song having a better chart postion?
+
+
+ MySQL was used to find the answer to most of the questions with the exception of What features best predict a song having a better chart postion? A 
+
+
