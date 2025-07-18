@@ -65,7 +65,7 @@ Where Title = 'Blinding Lights';
 
 ```
 In order to make the analyzing process easier, I applied my basic knowldgde of data normazlation and created a refrance table for both the artists and genres to avoid redudancy. Primary and foregin keys were given to all the tables created for easier analzysis. This gave us a complete song dataset with all the songs information, an artists refrance table, and a genres refreance table. 
-### Analysis 
+### Analysis/Visulization
 To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide somw questions about my dataset in order to help achive my goals. The following questions were chosen: 
 #### Descriptive Analysis
 1. What are the most common genres represented in the Year-End Hot 100?
@@ -84,6 +84,9 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 1. What features best predict a song having a better chart postion?
 
 
- MySQL was used to find the answer to most of the questions with the exception of What features best predict a song having a better chart postion? A 
+ MySQL was used to find the answer to most of the questions with the exception of What features best predict a song having a better chart postion? A Multiple Linear Regression model was condcuted to see the factors that statsicaly contrubited to a song having a higher chart postion. The script as with a more detail explanasion about the thought process for each question can be found in the file....
 
+The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize ststical significany for the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remainding 
+
+### Results and Conlusions
 
