@@ -88,5 +88,10 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 
 The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize ststical significany for the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remainding 
 
-### Results and Conlusions
+### Results and Conlusions 
+!()!
+
+
+
+Since billboard takes into account the number of streams a song accumulates to determine chart postion, the model should and does porovide statical evicnve that having a hiher streaming chart should imporvoe your postion on the charts as our plot and results shows. 
 
