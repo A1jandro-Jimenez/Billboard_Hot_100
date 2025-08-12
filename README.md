@@ -86,11 +86,15 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 
  MySQL was used to find the answer to most of the questions with the exception of What features best predict a song having a better chart postion? A Multiple Linear Regression model was condcuted to see the factors that statsicaly contrubited to a song having a higher chart postion. The script as with a more detail explanasion about the thought process for each question can be found in the file....
 
-The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize ststical significany for the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remainding 
+The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize ststical significany for the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remainding questions. 
 
 ### Results and Conlusions 
 ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/regression%20coefficient%20plot.png?raw=true)
+In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using variuous libraires and the results can be found in the file...
 
+The image above is a regression coefficinet plot that shows the coefficients from the model for each varible and hilights in gree the once that are statsticalaly siginficant (have a p value < 0.05). The three varabiles that were highlighted were log spotify streams, latin, and Christmas. Although latin and christmas are statsticaly siginifcant, their coefficients are postivie. In the context of our model a postive coefficient indecates a lower chart postion or a higher number, when the goal is to get closer to one. It is best to foucus on log spotify streams as it had a negative coffeicient meaning a higher chart postion or a lower number closer to one. 
+
+A 1-unit increase in log(Spotify_Streams) (i.e., multiplying streams by ~2.718 or ~a 171% increase) is associated with a ~29 position improvement in chart rank (because the coefficient is -28.98).
 
 
 
