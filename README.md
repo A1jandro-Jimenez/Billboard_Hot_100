@@ -90,12 +90,12 @@ The results of each question were stored a as csv files and exported to Power BI
 
 ### Results and Conlusions 
 ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/regression%20coefficient%20plot.png?raw=true)
-In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using variuous libraires and the results can be found in the file...
+In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using variuous libraires and the results can be found in the file...The main variables used were number of artists, song length, log spotify streams, and genre type. 
 
 The image above is a regression coefficinet plot that shows the coefficients from the model for each varible and hilights in gree the once that are statsticalaly siginficant (have a p value < 0.05). The three varabiles that were highlighted were log spotify streams, latin, and Christmas. Although latin and christmas are statsticaly siginifcant, their coefficients are postivie. In the context of our model a postive coefficient indecates a lower chart postion or a higher number, when the goal is to get closer to one. It is best to foucus on log spotify streams as it had a negative coffeicient meaning a higher chart postion or a lower number closer to one. 
 
-A 1-unit increase in log(Spotify_Streams) (i.e., multiplying streams by ~2.718 or ~a 171% increase) is associated with a ~29 position improvement in chart rank (because the coefficient is -28.98).
-
+A 1-unit increase in log(Spotify_Streams) (i.e., multiplying streams by ~2.718 or ~a 171% increase) is associated with a ~29 position improvement in chart rank (because the coefficient is -28.98).The negative sign tells us that higher Spotify stream counts strongly predict better chart positions (lower chart number = better).The very small p-value (< 0.001) means this relationship is statistically significant meaning very unlikley that it ocurred by chance. 
+Songs with more Spotify streams tend to have better chart positions. Specifically, multiplying a song’s streams by a constant factor (e.g. 2x, 10x) is linked to a significantly higher chart rank, even after controlling for genre, song length, and number of artists.
 
 
 Since billboard takes into account the number of streams a song accumulates to determine chart postion, the model should and does porovide statical evicnve that having a hiher streaming chart should imporvoe your postion on the charts as our plot and results shows. 
