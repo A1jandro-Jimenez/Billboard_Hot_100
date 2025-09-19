@@ -88,7 +88,7 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 
 The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize ststical significany for the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remainding questions. 
 
-### Results and Conlusions 
+## Results and Conlusions 
 ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/regression%20coefficient%20plot.png?raw=true)
 In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using variuous libraires and the results can be found in the file...The main variables used were number of artists, song length, log spotify streams, and genre type. 
 
