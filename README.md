@@ -100,3 +100,14 @@ Songs with more Spotify streams tend to have better chart positions. Specificall
 
 Since billboard takes into account the number of streams a song accumulates to determine chart postion, the model should and does porovide statical evicnve that having a hiher streaming chart should imporvoe your postion on the charts as our plot and results shows. 
 
+![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Billboard%20Dashboard.png?raw=true)
+
+MySQL was used to answer the remamimg questions and the full script can be found with the name .... In order to communicate the answers in a more facile manner, a simple dashboard was made in Power BI which is shown above. 
+
+Some key takeaways:
+1. Drake, Morgan Wallen, Doja Cat, Justin Biber, and Luke Combs are the top five artists that have appear the most as both a main and a feature artsist across the past four years on the charts.
+2. Problably the most useful trend is that of the song count based on genre over the years. In 2020, Hip-Hop/rap had 40 songs on the Billboard Hot 100 Year End Chart. Fast fowrd to 2024 and only about 10 songs out of 100 are Hip-Hop/rap, a significant drop. On the other hand, country music as well as indie pop have had significant rises as the chart displaies. This is also sppourted by both Morgan Wallen and Luke Combs being some of the artists that appear on the charts the most.
+3. About 70% of the songs that were ranked 1-25 where actually solo prefomaces and as the numbe of artists increased the percatnge of songs dcreased. This is ture across all chart postion groups. Graph fully displies that 1 artist songs make up most of the songs across all four years.
+4. Collabortions over time tend to not be as popular as the amount of solo artsits songs just seems to be increasing as the time increased.
+5. The genres with the most appearnces across all four years were pop, Hip-Hop, and Country. Those genres have defiend the beining of the decade so far.
+6. The albumn with the most disticnt song entries has ben Un Verano Sin Ti by Bad Bunny with a total of seven diffrent songs from the alumb all making it on the charts.  
