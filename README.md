@@ -113,4 +113,4 @@ Some key takeaways:
 6. The albumn with the most disticnt song entries has ben Un Verano Sin Ti by Bad Bunny with a total of seven diffrent songs from the alumb all making it on the charts.
 
  #### Conlusions 
- ![]()
+ ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Genre_Vs_ACP.png?raw=true)
