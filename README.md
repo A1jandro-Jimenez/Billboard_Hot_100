@@ -114,6 +114,6 @@ Some key takeaways:
 
  ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Genre_Vs_ACP.png?raw=true)
  
-![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Song_Length_vs_Chart_Position.png?raw=true)
+![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Screenshot%202025-09-26%20171507.png?raw=true)
 
 The graph titled 
