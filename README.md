@@ -116,4 +116,6 @@ Some key takeaways:
  
 ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Screenshot%202025-09-26%20171507.png?raw=true)
 
-The graph titled 
+The graph titled Gerne and Avergae Chart Position, shows the average chart position across all the top genres. The average chart positions range from about 40 - 60 providing a 20 range gap across the genres. The results from the multiple linear regression model along with the graph mention support the claim that there is no statical evidance that a speficic genre offers a better chart postion. 
+
+The graph titled Affect of Song Length on Chart Position, shows a couple of things. The first is that R^2 is apporxemenly 0 
