@@ -118,4 +118,6 @@ Some key takeaways:
 
 The graph titled Gerne and Avergae Chart Position, shows the average chart position across all the top genres. The average chart positions range from about 40 - 60 providing a 20 range gap across the genres. The results from the multiple linear regression model along with the graph mention support the claim that there is no statical evidance that a speficic genre offers a better chart postion. 
 
-The graph titled Affect of Song Length on Chart Position, shows a couple of things. The first is that R^2 is apporxemenly 0 
+The graph titled Affect of Song Length on Chart Position, shows a couple of things. The first is that R^2 is apporxemenly 0. It illstues the proportion of the variation in the dependent variable (chart position) that is predictable from the independent variable (song length). Since it is almsot zero, it means that there is almost zero corleation between song lenth and chart position. The second finding is that most of the data points lay around the 200 seocnds mark. It was found that average song length was around 197 seconds which is around 3 minutes and 17 seconds, so the grapgh demsostaes just that. Finally, about 99% of all song entries fall between the range of 100 to 300 seconds or 1 min 40 s to 5 min. Only six songs are outside the given range. The evidance illustares the ideal song length range of the most popular and secussful songs of the decade so far. 
+
+
