@@ -88,7 +88,7 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 
 The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize ststical significany for the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remainding questions. 
 
-## Results and Conlusions 
+## Results 
 ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/regression%20coefficient%20plot.png?raw=true)
 In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using variuous libraires and the results can be found in the file...The main variables used were number of artists, song length, log spotify streams, and genre type. 
 
@@ -120,4 +120,4 @@ The graph titled Gerne and Avergae Chart Position, shows the average chart posit
 
 The graph titled Affect of Song Length on Chart Position, shows a couple of things. The first is that R^2 is apporxemenly 0. It illstues the proportion of the variation in the dependent variable (chart position) that is predictable from the independent variable (song length). Since it is almsot zero, it means that there is almost zero corleation between song lenth and chart position. The second finding is that most of the data points lay around the 200 seocnds mark. It was found that average song length was around 197 seconds which is around 3 minutes and 17 seconds, so the grapgh demsostaes just that. Finally, about 99% of all song entries fall between the range of 100 to 300 seconds or 1 min 40 s to 5 min. Only six songs are outside the given range. The evidance illustares the ideal song length range of the most popular and secussful songs of the decade so far. 
 
-
+## Conclusions
