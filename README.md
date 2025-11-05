@@ -110,7 +110,7 @@ Some key takeaways:
 3. About 70% of the songs that were ranked 1-25 where actually solo prefomaces and as the number of artists increased the percatnge of songs dcreased. This is ture across all chart postion groups. Graph fully displies that 1 artist songs make up most of the songs across all four years.
 4. Collabortions over time tend to not be as popular as the amount of solo artsits songs just seems to be increasing as the time increased.
 5. The genres with the most appearnces across all four years were pop, Hip-Hop, and Country. Those genres have defiend the beining of the decade so far.
-6. The albumn with the most disticnt song entries has ben Un Verano Sin Ti by Bad Bunny with a total of seven diffrent songs from the album all making it on the charts.
+6. The albumn with the most disticnt song entries has ben Un Verano Sin Ti by Bad Bunny with a total of seven different songs from the album all making it on the charts.
 
  ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/Genre_Vs_ACP.png?raw=true)
  
