@@ -84,7 +84,7 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 1. What features best predict a song having a better chart postion?
 
 
- MySQL was used to find the answers to most of the questions with the exception of what features best predict a song having a better chart postion? A Multiple Linear Regression model was condcuted to see the factors that statistically contrubited to a song having a higher chart postion. The script as well as more detail explanation about the thought process for each question can be found in the file....
+ MySQL was used to find the answers to most of the questions with the exception of what features best predict a song having a better chart postion? A Multiple Linear Regression model was condcuted to see the factors that statistically contrubited to a song having a higher chart postion. The script as well as more detail explanation about the thought process for each question can be found in the file Script_for_Billboard_Questions. 
 
 The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize statistically significancy or the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remaining questions. 
 
