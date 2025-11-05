@@ -1,0 +1,501 @@
+Song_ID,Chart_Year,Chart_Position,Title,Num_of_Artists,Artist(s),Main_ArtistOne_ID,Main_ArtistTwo_ID,Main_ArtistThree_ID,Main_ArtistFour_ID,Featured_ArtistOne_ID,Featured_ArtistTwo_ID,Featured_ArtistThree_ID,Released_Date,Genre_ID,Song_Length,Album,log Spotify_streams,Spotify_Streams,Genre_ID,Genre_Type
+1,2020,1,Blinding Lights,1,The Weeknd,251,,,,,,,11/29/2019,31,200,After Hours,9.672419875,4703486206,31,Synthwave
+2,2020,2,Circles,1,Post Malone,207,,,,,,,8/30/2019,23,215,Hollywood's Bleeding,9.436304598,2730892460,23,Pop
+3,2020,3,The Box,1,Roddy Ricch,218,,,,,,,12/6/2019,14,196,Please Excuse Me for Being Antisocial,8.322086295,209935699,14,Hip-Hop
+4,2020,4,Don't Start Now,1,Dua Lipa,73,,,,,,,11/1/2019,9,183,Future Nostalgia,9.454022666,2844609567,9,Disco
+5,2020,5,Rockstar,2,DaBaby featuring Roddy Ricch,59,,,,218,,,1/9/2020,14,181,Blame It On Baby,9.230242036,1699190361,14,Hip-Hop
+6,2020,6,Adore You,1,Harry Styles,102,,,,,,,4/7/2020,23,207,Fine Line,9.259877185,1819186335,23,Pop
+7,2020,7,Life Is Good,2,Future featuring Drake,89,,,,72,,,1/10/2020,14,237,Life Is Good,9.114129501,1300557331,14,Hip-Hop
+8,2020,8,Memories,1,Maroon 5,167,,,,,,,9/20/2019,23,189,JORDI,9.341803429,2196865297,23,Pop
+9,2020,9,The Bones,1,Maren Morris,165,,,,,,,5/15/2019,6,197,GIRL,8.67979885,478408459,6,Country Pop
+10,2020,10,Someone You Loved,1,Lewis Capaldi,150,,,,,,,10/19/2018,23,182,Divinely Uninspired To A Hellish Extent,9.579108426,3794096969,23,Pop
+11,2020,11,Say So,1,Doja Cat,69,,,,,,,11/9/2019,9,237,Hot Pink,9.101300926,1262702167,9,Disco
+12,2020,12,I Hope,2,Gabby Barrett featuring Charlie Puth,90,,,,46,,,6/9/2019,6,210,Goldmine,8.630141235,426718267,6,Country Pop
+13,2020,13,Whats Poppin,4,"Jack Harlow featuring DaBaby, Tory Lanez and Lil Wayne",110,,,,59,256,157,1/24/2020,14,227,WHATS POPPIN,8.888859107,774210590,14,Hip-Hop
+14,2020,14,Dance Monkey,1,Tones and I,254,,,,,,,5/10/2019,23,209,Dance Monkey,9.506904473,3212953741,23,Pop
+15,2020,15,Savage,2,Megan Thee Stallion featuring Beyoncé,171,,,,25,,,3/29/2020,14,242,Good News,8.647234448,443848185,14,Hip-Hop
+16,2020,16,Roxanne,1,Arizona Zervas,13,,,,,,,10/4/2019,14,163,ROXANNE,9.184793323,1530359004,14,Hip-Hop
+17,2020,17,Intentions,2,Justin Bieber featuring Quavo,130,,,,210,,,2/7/2020,23,212,Intentions,9.100546895,1260511739,23,Pop
+18,2020,18,Everything I Wanted,1,Billie Eilish,26,,,,,,,11/13/2019,23,245,everything i wanted,9.255400462,1800530414,23,Pop
+19,2020,19,Roses (Imanbek remix),1,Saint Jhn,222,,,,,,,7/19/2019,10,176,While The World Was Burning,9.308514886,2034767940,10,EDM
+20,2020,20,Watermelon Sugar,1,Harry Styles,102,,,,,,,11/16/2020,23,174,Fine Line,9.467829617,2936497374,23,Pop
+21,2020,21,Before You Go,1,Lewis Capaldi,150,,,,,,,3/9/2020,23,215,Divinely Uninspired To A Hellish Extent,9.326653772,2121552445,23,Pop
+22,2020,22,Falling,1,Trevor Daniel,258,,,,,,,3/27/2020,23,149,Nicotine,9.238017024,1729884168,23,Pop
+23,2020,23,"10,000 Hours",2,Dan + Shay and Justin Bieber,60,130,,,,,,9/6/2019,6,167,"10,000 Hours",9.050032723,1122102999,6,Country Pop
+24,2020,24,WAP,2,Cardi B featuring Megan Thee Stallion,41,,,,171,,,8/7/2020,14,187,Wap,9.148716411,1408368850,14,Hip-Hop
+25,2020,25,Ballin',2,Mustard and Roddy Ricch,181,218,,,,,,1/17/2020,14,180,Perfect Ten,8.985180834,966453213,14,Hip-Hop
+26,2020,26,Hot Girl Bummer,1,Blackbear,29,,,,,,,9/6/2019,23,188,everything means nothing,9.122722165,1326545544,23,Pop
+27,2020,27,Blueberry Faygo,1,Lil Mosey,153,,,,,,,4/10/2020,14,162,Blueberry Faygo,9.140250599,1381181010,14,Hip-Hop
+28,2020,28,Heartless,1,The Weeknd,251,,,,,,,11/27/2019,14,198,After Hours,9.031049501,1074111834,14,Hip-Hop
+29,2020,29,Bop,1,DaBaby,59,,,,,,,3/6/2020,14,159,KIRK,8.94181412,874609358,14,Hip-Hop
+30,2020,30,Lose You to Love Me,1,Selena Gomez,228,,,,,,,10/23/2019,23,206,Rare,9.118415316,1313455358,23,Pop
+31,2020,31,Good as Hell,1,Lizzo,158,,,,,,,3/8/2016,23,159,Cuz I Love You,8.821885319,663567823,23,Pop
+32,2020,32,Toosie Slide,1,Drake,72,,,,,,,4/3/2020,14,247,Toosie Slide,9.044899989,1108919419,14,Hip-Hop
+33,2020,33,Break My Heart,1,Dua Lipa,73,,,,,,,3/25/2020,23,221,Future Nostalgia,9.111005765,1291236413,23,Pop
+34,2020,34,Chasin' You,1,Morgan Wallen,179,,,,,,,8/9/2019,5,205,If I KNnow Me,8.85584105,717531630,5,Country
+35,2020,35,Savage Love (Laxed – Siren Beat),2,Jawsh 685 and Jason Derulo,114,113,,,,,,6/11/2020,8,171,Savage Love (Laxed – Siren Beat),9.064692656,1160626964,8,Dancehall
+36,2020,36,No Guidance,2,Chris Brown featuring Drake,49,,,,72,,,6/28/2019,26,260,Indigo,9.045675531,1110901444,26,R&B
+37,2020,37,My Oh My,2,Camila Cabello featuring DaBaby,40,,,,59,,,12/6/2019,23,170,Romance,8.877132682,753585758,23,Pop
+38,2020,38,Dynamite,1,BTS,38,,,,,,,8/21/2020,18,199,BE,9.305454436,2020479441,18,K-pop
+39,2020,39,Go Crazy,2,Chris Brown and Young Thug,49,275,,,,,,5/8/2020,26,176,Slime & B,8.873369914,747084823,26,R&B
+40,2020,40,High Fashion,2,Roddy Ricch featuring Mustard,218,,,,181,,,12/6/2019,14,220,Please Excuse Me for Being Antisocial,8.754184655,567785967,14,Hip-Hop
+41,2020,41,Laugh Now Cry Later,2,Drake featuring Lil Durk,72,,,,152,,,8/14/2020,14,261,Laugh Now Cry Later,9.009958261,1023194651,14,Hip-Hop
+42,2020,42,Woah,1,Lil Baby,151,,,,,,,4/2/2020,14,183,My Turn,8.65039706,447092166,14,Hip-Hop
+43,2020,43,Death Bed,2,Powfu featuring Beabadoobee,208,,,,19,,,9/17/2019,16,173,Powfu,9.252690995,1789332274,16,Indie Pop
+44,2020,44,Señorita,2,Shawn Mendes and Camila Cabello,233,40,,,,,,6/21/2019,23,190,Señorita,9.467464574,2934030159,23,Pop
+45,2020,45,Highest in the Room,1,Travis Scott,257,,,,,,,10/4/2019,14,175,Highest in the Room,9.286927474,1936098613,14,Hip-Hop
+46,2020,46,Bad Guy,1,Billie Eilish,26,,,,,,,3/29/2019,23,194,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",9.426930257,2672577187,23,Pop
+47,2020,47,Mood,2,24kGoldn featuring Iann Dior,4,,,,104,,,7/10/2020,23,140,El Dorado,9.304778165,2017335657,23,Pop
+48,2020,48,Rain on Me,2,Lady Gaga and Ariana Grande,145,12,,,,,,5/22/2020,23,182,Chromatica,9.051524391,1125963703,23,Pop
+49,2020,49,For the Night,3,Pop Smoke featuring Lil Baby and DaBaby,206,,,,151,59,,7/3/2020,14,190,Shoot For The Stars Aim For The Moon,9.071971922,1180244327,14,Hip-Hop
+50,2020,50,Ritmo (Bad Boys for Life),2,Black Eyed Peas and J Balvin,28,109,,,,,,12/13/2019,27,221,RITMO,9.000455587,1001049579,27,Reggaeton
+51,2020,51,Heart on Ice,1,Rod Wave,217,,,,,,,6/17/2019,14,149,PTSD,8.53992117,346673919,14,Hip-Hop
+52,2020,52,Nobody but You,2,Blake Shelton and Gwen Stefani,30,98,,,,,,1/24/2020,5,194,Fully Loaded: God's Country,8.169407546,147709200,5,Country
+53,2020,53,Trampoline,1,Shaed,231,,,,,,,2/22/2019,23,184,MELT,8.376204655,237796060,23,Pop
+54,2020,54,Come & Go,2,Juice Wrld and Marshmello,127,168,,,,,,7/10/2020,23,205,Legends Never Die,9.014105027,1033011192,23,Pop
+55,2020,55,Truth Hurts,1,Lizzo,158,,,,,,,9/19/2017,23,173,Cuz I Love You,9.010611903,1024735785,23,Pop
+56,2020,56,If the World Was Ending,2,JP Saxe featuring Julia Michaels,126,,,,128,,,10/4/2019,23,208,If the World Was Ending,9.095151674,1244949324,23,Pop
+57,2020,57,We Paid,2,Lil Baby and 42 Dugg,151,5,,,,,,4/3/2020,14,181,My Turn,8.660822704,457954893,14,Hip-Hop
+58,2020,58,Yummy,1,Justin Bieber,130,,,,,,,1/3/2020,23,210,Yummy,8.920089858,831935886,23,Pop
+59,2020,59,One Man Band,1,Old Dominion,193,,,,,,,12/6/2019,6,186,Old Dominion,8.741339337,551238240,6,Country Pop
+60,2020,60,Got What I Got,1,Jason Aldean,112,,,,,,,6/26/2020,6,178,9,8.294568954,197046604,6,Country Pop
+61,2020,61,Sunday Best,1,Surfaces,241,,,,,,,1/25/2019,16,158,Where the Ligh Is,9.004139063,1009576105,16,Indie Pop
+62,2020,62,Godzilla,2,Eminem featuring Juice Wrld,79,,,,127,,,1/28/2020,14,210,Music To Be Murdered By,9.218118995,1652414491,14,Hip-Hop
+63,2020,63,Bandit,2,Juice Wrld and YoungBoy Never Broke Again,127,276,,,,,,9/6/2019,14,189,Bandit,8.994374352,987130002,14,Hip-Hop
+64,2020,64,Party Girl,1,StaySolidRocky,236,,,,,,,11/22/2019,14,147,Party Girl,9.913809635,8199920365,14,Hip-Hop
+65,2020,65,Die from a Broken Heart,1,Maddie & Tae,162,,,,,,,2/7/2020,6,188,The Way It Feels,8.491380393,310013348,6,Country Pop
+66,2020,66,Popstar,2,DJ Khaled featuring Drake,66,,,,72,,,7/17/2020,14,200,POPSTAR,8.87103806,743084257,14,Hip-Hop
+67,2020,67,All I Want for Christmas Is You,1,Mariah Carey,166,,,,,,,10/29/1994,3,241,Merry Christmas,9.336803438,2171718035,3,Christmas
+68,2020,68,One of Them Girls,1,Lee Brice,149,,,,,,,2/7/2020,5,188,Hey World,8.634792843,431313293,5,Country
+69,2020,69,Hard to Forget,1,Sam Hunt,223,,,,,,,4/3/2020,5,204,SOUTHSIDE,8.188101945,154206239,5,Country
+70,2020,70,One Margarita,1,Luke Bryan,159,,,,,,,5/1/2020,5,193,One Margarita,8.317750957,207850444,5,Country
+71,2020,71,Panini,1,Lil Nas X,154,,,,,,,6/7/2019,14,114,Panini,8.883946861,765502936,14,Hip-Hop
+72,2020,72,Hot,2,Young Thug featuring Gunna,275,,,,96,,,11/8/2019,14,279,So Much Fun,8.679691659,478290395,14,Hip-Hop
+73,2020,73,I Hope You're Happy Now,2,Carly Pearce and Lee Brice,42,149,,,,,,2/28/2020,6,198,Carly Pearce,8.364237971,231333203,6,Country Pop
+74,2020,74,Emotionally Scarred,1,Lil Baby,151,,,,,,,3/13/2020,14,197,My Turn,8.504204371,319304009,14,Hip-Hop
+75,2020,75,Suicidal,2,YNW Melly featuring Juice Wrld,273,,,,127,,,8/9/2019,14,222,Melly vs. Melvin,8.795940388,625086887,14,Hip-Hop
+76,2020,76,The Bigger Picture,1,Lil Baby,151,,,,,,,6/12/2020,14,252,The Bigger Picture,8.426172212,266791637,14,Hip-Hop
+77,2020,77,Only Human,1,Jonas Brothers,124,,,,,,,9/13/2019,23,183,Happiness Begins,8.729071444,535884807,23,Pop
+78,2020,78,The Woo,3,Pop Smoke featuring 50 Cent and Roddy Ricch,206,,,,7,218,,4/3/2020,14,201,Shoot For The Stars Aim For The Moon,8.771048153,590266523,14,Hip-Hop
+79,2020,79,Sum 2 Prove,1,Lil Baby,151,,,,,,,2/7/2020,14,205,Sum 2 Prove,8.695966129,496553593,14,Hip-Hop
+80,2020,80,Stuck with U,2,Ariana Grande and Justin Bieber,12,130,,,,,,5/8/2020,23,228,Stuck with U,9.089778625,1229641819,23,Pop
+81,2020,81,Mood Swings,2,Pop Smoke featuring Lil Tjay,206,,,,155,,,4/3/2020,14,213,Shoot For The Stars Aim For The Moon,8.932476136,856004674,14,Hip-Hop
+82,2020,82,You Should Be Sad,1,Halsey,100,,,,,,,1/10/2020,23,205,Manic,8.765159347,582316837,23,Pop
+83,2020,83,Dior,1,Pop Smoke,206,,,,,,,2/7/2019,14,216,Meet The Woo,9.064321305,1159634975,14,Hip-Hop
+84,2020,84,Supalonely,2,Benee featuring Gus Dapperton,22,,,,97,,,2/22/2019,23,223,STELLA & STEVE,8.882114583,762280102,23,Pop
+85,2020,85,Even Though I'm Leaving,1,Luke Combs,160,,,,,,,9/13/2019,5,225,What You See Is What You Get,8.441482127,276364418,5,Country
+86,2020,86,The Scotts,1,The Scotts (Travis Scott and Kid Cudi),250,,,,,,,5/4/2020,14,165,The Scotts,8.9213167,834289351,14,Hip-Hop
+87,2020,87,Juicy,2,Doja Cat and Tyga,69,260,,,,,,4/5/2019,14,203,Hot Pink,8.586760312,386153799,14,Hip-Hop
+88,2020,88,Be Like That,3,"Kane Brown, Swae Lee and Khalid",135,242,141,,,,,7/10/2020,23,191,Be Like That,8.633383683,429916074,23,Pop
+89,2020,89,Homesick,1,Kane Brown,135,,,,,,,1/10/2020,23,205,Experiment Extended,8.244435749,175564114,23,Pop
+90,2020,90,Rags2Riches,2,Rod Wave featuring ATR Son Son,217,,,,15,,,3/6/2020,14,167,Pray $ Love,8.224369712,167636935,14,Hip-Hop
+91,2020,91,Bluebird,1,Miranda Lambert,176,,,,,,,3/13/2020,5,209,Wildcard,8.27482002,188286863,5,Country
+92,2020,92,Wishing Well,1,Juice Wrld,127,,,,,,,1/24/2020,14,194,Legends Never Die,8.998635077,996862083,14,Hip-Hop
+93,2020,93,Does to Me,2,Luke Combs featuring Eric Church,160,,,,81,,,1/24/2020,5,223,What You See Is What You Get,8.28125204,191096195,5,Country
+94,2020,94,Pussy Fairy (OTW),1,Jhené Aiko,119,,,,,,,12/6/2019,26,181,Pussy Fairy (OTW),8.327519792,212578722,26,R&B
+95,2020,95,ILY (I Love You Baby),2,Surf Mesa featuring Emilee,240,,,,78,,,2/7/2020,23,176,ily,8.985201426,966499037,23,Pop
+96,2020,96,More Than My Hometown,1,Morgan Wallen,179,,,,,,,1/10/2020,5,216,Dangerous,8.775055921,595738848,5,Country
+97,2020,97,Lovin' on You,1,Luke Combs,160,,,,,,,3/13/2020,5,194,What You See Is What You Get,8.365404587,231955453,5,Country
+98,2020,98,Said Sum,1,Moneybagg Yo,177,,,,,,,2/14/2020,14,155,Code Red,8.167378581,147020732,14,Hip-Hop
+99,2020,99,Slide,2,H.E.R. featuring YG,99,,,,271,,,12/20/2019,14,236,Back of My Mind,8.37173375,235360593,14,Hip-Hop
+100,2020,100,Walk Em Down,2,NLE Choppa featuring Roddy Ricch,191,,,,218,,,10/11/2019,14,173,Top Shotta,8.789211497,615476530,14,Hip-Hop
+101,2021,1,Levitating,1,Dua Lipa,73,,,,,,,3/27/2020,23,203,Future Nostalgia,9.017904747,1042088845,23,Pop
+102,2021,2,Save Your Tears,2,The Weeknd and Ariana Grande,251,12,,,,,,8/9/2020,30,215,After Hours,9.359630519,2288919502,30,Synth-pop
+103,2021,3,Blinding Lights,1,The Weeknd,251,,,,,,,11/29/2019,31,200,After Hours,9.672419875,4703486206,31,Synthwave
+104,2021,4,Mood,2,24kGoldn featuring Iann Dior,4,,,,104,,,7/10/2020,23,140,El Dorado,9.304778165,2017335657,23,Pop
+105,2021,5,Good 4 U,1,Olivia Rodrigo,195,,,,,,,5/14/2021,24,178,SOUR,9.376316779,2378574614,24,Pop Punk
+106,2021,6,Kiss Me More,2,Doja Cat featuring SZA,69,,,,243,,,4/9/2021,23,208,Planet her,9.313579671,2058636510,23,Pop
+107,2021,7,Leave the Door Open,1,Silk Sonic (Bruno Mars and Anderson .Paak),234,,,,,,,3/5/2021,26,242,An Evening With Silk Sonic,9.167383736,1470224773,26,R&B
+108,2021,8,Drivers License,1,Olivia Rodrigo,195,,,,,,,1/8/2021,23,242,SOUR,9.385893285,2431606443,23,Pop
+109,2021,9,Montero (Call Me by Your Name),1,Lil Nas X,154,,,,,,,3/26/2021,23,137,MONTERO,9.30857823,2035064740,23,Pop
+110,2021,10,Peaches,3,Justin Bieber featuring Daniel Caesar and Giveon,130,,,,61,92,,3/19/2021,26,198,Justice,9.240254549,1738819689,26,R&B
+111,2021,11,Butter,1,BTS,38,,,,,,,5/21/2021,23,164,"Butter (Hotter, Sweeter, Cooler)",9.125739039,1335792618,23,Pop
+112,2021,12,Stay,2,The Kid Laroi and Justin Bieber,249,130,,,,,,7/9/2021,23,141,STAY (with Justin Bieber),9.54303368,3491673927,23,Pop
+113,2021,13,Deja Vu,1,Olivia Rodrigo,195,,,,,,,4/1/2021,23,215,SOUR,9.270305804,1863398769,23,Pop
+114,2021,14,Positions,1,Ariana Grande,12,,,,,,,10/23/2020,23,172,Positions,9.196149327,1570902846,23,Pop
+115,2021,15,Bad Habits,1,Ed Sheeran,75,,,,,,,6/25/2021,23,230,=,9.277126272,1892893902,23,Pop
+116,2021,16,Heat Waves,1,Glass Animals,93,,,,,,,6/29/2020,16,238,Dreamland,9.522033457,3326851816,16,Indie Pop
+117,2021,17,Without You,1,The Kid Laroi,249,,,,,,,12/11/2020,23,161,F*CK LOVE 3+: OVER YOU,8.994459061,987322560,23,Pop
+118,2021,18,Forever After All,1,Luke Combs,160,,,,,,,10/23/2020,5,232,What You See Ain't Always What You Get,8.74371105,554256826,5,Country
+119,2021,19,Go Crazy,2,Chris Brown and Young Thug,49,275,,,,,,5/8/2020,26,176,Slime & B,8.873369914,747084823,26,R&B
+120,2021,20,Astronaut in the Ocean,1,Masked Wolf,169,,,,,,,6/8/2019,14,132,Astronaut In The Ocean,9.1216489,1323271319,14,Hip-Hop
+121,2021,21,34+35,3,Ariana Grande featuring Doja Cat and Megan Thee Stallion,12,,,,69,171,,10/30/2020,23,173,Positions,9.025654275,1060850720,23,Pop
+122,2021,22,What You Know Bout Love,1,Pop Smoke,206,,,,,,,9/18/2020,26,160,Shoot For The Stars Aim For The Moon,9.095457409,1245826054,26,R&B
+123,2021,23,My Ex's Best Friend,2,Machine Gun Kelly featuring Blackbear,161,,,,29,,,9/4/2020,24,139,Tickets To My Downfall,8.864667534,732263747,24,Pop Punk
+124,2021,24,Industry Baby,2,Lil Nas X and Jack Harlow,154,110,,,,,,7/23/2021,14,212,INDUSTRY BABY,9.330890878,2142352241,14,Hip-Hop
+125,2021,25,Therefore I Am,1,Billie Eilish,26,,,,,,,11/12/2020,23,173,Happier Than Ever ,8.951882074,895121676,23,Pop
+126,2021,26,Up,1,Cardi B,41,,,,,,,2/5/2021,14,156,Up,8.843461341,697366917,14,Hip-Hop
+127,2021,27,Fancy Like,1,Walker Hayes,265,,,,,,,6/4/2021,5,161,Country Stuff The Album,8.566177247,368279247,5,Country
+128,2021,28,Dakiti,2,Bad Bunny and Jhay Cortez,17,118,,,,,,10/23/2020,27,205,Dakiti,9.336295114,2169177616,27,Reggaeton
+129,2021,29,Best Friend,2,Saweetie featuring Doja Cat,226,,,,69,,,2/19/2021,23,155,Best Friend,8.80498837,638246394,23,Pop
+130,2021,30,Rapstar,1,Polo G,204,,,,,,,4/9/2021,14,165,Hall of Fame,9.019314337,1045476648,14,Hip-Hop
+131,2021,31,Heartbreak Anniversary,1,Giveon,92,,,,,,,10/23/2020,26,196,Heartbreak Anniversary,9.130196887,1349574571,26,R&B
+132,2021,32,For the Night,3,Pop Smoke featuring Lil Baby and DaBaby,206,,,,151,59,,7/3/2020,14,190,Shoot For The Stars Aim For The Moon,9.071971922,1180244327,14,Hip-Hop
+133,2021,33,Calling My Phone,2,Lil Tjay and 6lack,155,8,,,,,,2/12/2021,26,205,Destined 2 Win,8.930652842,852418452,26,R&B
+134,2021,34,Beautiful Mistakes,2,Maroon 5 featuring Megan Thee Stallion,167,,,,171,,,3/3/2021,23,227,JORDI,8.905950317,805286312,23,Pop
+135,2021,35,Holy,2,Justin Bieber featuring Chance the Rapper,130,,,,44,,,9/18/2020,23,212,Justice,8.920320341,832377517,23,Pop
+136,2021,36,On Me,1,Lil Baby,151,,,,,,,10/23/2020,14,135,On Me,8.617448465,414427404,14,Hip-Hop
+137,2021,37,You Broke Me First,1,Tate McRae,244,,,,,,,5/29/2020,23,170,TOO YOUNG TO BE SAD,9.227322142,1687804506,23,Pop
+138,2021,38,Traitor,1,Olivia Rodrigo,195,,,,,,,7/21/2021,23,229,SOUR,9.271110203,1866853346,23,Pop
+139,2021,39,Back in Blood,2,Pooh Shiesty featuring Lil Durk,205,,,,152,,,11/20/2020,14,184,Back In Blood,8.632376973,428920667,14,Hip-Hop
+140,2021,40,I Hope,2,Gabby Barrett featuring Charlie Puth,90,,,,46,,,6/9/2019,6,210,Goldmine,8.630141235,426718267,6,Country Pop
+141,2021,41,Dynamite,1,BTS,38,,,,,,,8/21/2020,18,199,BE,9.305454436,2020479441,18,K-pop
+142,2021,42,Wockesha,1,Moneybagg Yo,177,,,,,,,6/4/2021,14,180,A Gangsta's Pain,8.181284448,151804431,14,Hip-Hop
+143,2021,43,You Right,2,Doja Cat and the Weeknd,69,251,,,,,,7/9/2021,26,186,Planet Her,8.970237457,933764710,26,R&B
+144,2021,44,Beat Box 2 / Beat Box 3,3,SpotemGottem featuring Pooh Shiesty / SpotemGottem featuring DaBaby,235,,,,205,59,,4/1/2021,14,181,Final Destination,7.661297367,45845569,14,Hip-Hop
+145,2021,45,Laugh Now Cry Later,2,Drake featuring Lil Durk,72,,,,152,,,8/14/2020,14,261,Laugh Now Cry Later,9.009958261,1023194651,14,Hip-Hop
+146,2021,46,Need to Know,1,Doja Cat,69,,,,,,,6/9/2021,26,210,Planet Her,9.108481675,1283753601,26,R&B
+147,2021,47,Wants and Needs,2,Drake featuring Lil Baby,72,,,,151,,,3/5/2021,14,192,Scary Hours 2,8.938077535,867116669,14,Hip-Hop
+148,2021,48,Way 2 Sexy,3,Drake featuring Future and Young Thug,72,,,,89,275,,9/3/2021,14,257,Certified Lover Boy,8.78239267,605888445,14,Hip-Hop
+149,2021,49,Telepatía,1,Kali Uchis,133,,,,,,,11/23/2020,20,160,Sin Miedo (del Amor y Otros Demonios),9.136789218,1370216580,20,Latin Pop
+150,2021,50,Whoopty,1,CJ,52,,,,,,,8/7/2020,14,123,Whoopty,8.915814331,823785855,14,Hip-Hop
+151,2021,51,Lemonade,4,Internet Money and Gunna featuring Don Toliver and Nav,107,96,,,70,185,,12/4/2020,14,195,B4 The Storm,9.157741498,1437942426,14,Hip-Hop
+152,2021,52,Good Days,1,SZA,243,,,,,,,12/25/2020,26,278,SOS,8.138477442,137555336,26,R&B
+153,2021,53,Starting Over,1,Chris Stapleton,50,,,,,,,10/16/2020,5,240,Starting Over,8.617933334,414890350,5,Country
+154,2021,54,Body,1,Megan Thee Stallion,171,,,,,,,10/9/2020,14,171,Good News,8.553948809,358054230,14,Hip-Hop
+155,2021,55,Willow,1,Taylor Swift,245,,,,,,,12/11/2020,23,214,evermore,8.986285905,968915504,23,Pop
+156,2021,56,Bang!,1,AJR,10,,,,,,,7/30/2020,25,170,Ok ORCHESTRA,8.68002121,478653468,25,Pop Rock
+157,2021,57,Better Together,1,Luke Combs,160,,,,,,,10/16/2020,5,219,What You See Is What You Get,8.616535858,413557459,5,Country
+158,2021,58,You're Mines Still,2,Yung Bleu featuring Drake,277,,,,72,,,1/29/2021,26,226,Moon Boy,8.42037831,263256019,26,R&B
+159,2021,59,Every Chance I Get,3,DJ Khaled featuring Lil Baby and Lil Durk,66,,,,151,152,,4/30/2021,14,236,KHALED KHALED,8.59736873,395702442,14,Hip-Hop
+160,2021,60,Essence,3,Wizkid featuring Justin Bieber and Tems,268,,,,130,247,,4/9/2021,1,263,Essence,8.200451631,158654221,1,Afrobeat
+161,2021,61,Chasing After You,2,Ryan Hurd and Maren Morris,220,165,,,,,,4/9/2021,5,207,Pelago,8.331686203,214627913,5,Country
+162,2021,62,The Good Ones,1,Gabby Barrett,90,,,,,,,10/16/2020,5,215,Goldmine,8.417587459,261569715,5,Country
+163,2021,63,Leave Before You Love Me,2,Marshmello and Jonas Brothers,168,124,,,,,,5/21/2021,23,154,Leave Before You Love Me,8.987086114,970702424,23,Pop
+164,2021,64,Glad You Exist,1,Dan + Shay,60,,,,,,,3/12/2021,23,144,Good Things,8.328758255,213185791,23,Pop
+165,2021,65,Lonely,2,Justin Bieber and Benny Blanco,130,23,,,,,,10/16/2020,23,149,Justice,8.957982705,907784379,23,Pop
+166,2021,66,Beggin',1,Måneskin,164,,,,,,,8/8/2017,23,211,Chosen,9.267169091,1849988764,23,Pop
+167,2021,67,Streets,1,Doja Cat,69,,,,,,,3/13/2020,26,226,Hot Pink,9.103922829,1270348352,26,R&B
+168,2021,68,What's Next,1,Drake,72,,,,,,,3/5/2021,14,178,Scary Hours 2,8.607974086,405484340,14,Hip-Hop
+169,2021,69,Famous Friends,2,Chris Young and Kane Brown,51,135,,,,,,3/19/2021,5,166,Famous Friends,8.299045793,199088325,5,Country
+170,2021,70,Lil Bit,2,Nelly and Florida Georgia Line,187,86,,,,,,4/30/2021,5,195,Heartland,8.447203295,280029184,5,Country
+171,2021,71,Thot Shit,1,Megan Thee Stallion,171,,,,,,,6/11/2021,14,184,Thot Shit,8.551053085,355674791,14,Hip-Hop
+172,2021,72,Late at Night,1,Roddy Ricch,218,,,,,,,6/25/2021,26,174,LIVE LIFE FAST,8.443860943,277882337,26,R&B
+173,2021,73,Kings & Queens,1,Ava Max,16,,,,,,,3/13/2020,23,162,Heaven & Hell,9.035521411,1085229052,23,Pop
+174,2021,74,Anyone,1,Justin Bieber,130,,,,,,,1/1/2021,23,190,Justice,8.871570889,743996494,23,Pop
+175,2021,75,Track Star,1,Mooski,178,,,,,,,6/19/2020,14,199,Track Star,8.001740954,100401674,14,Hip-Hop
+176,2021,76,Time Today,1,Moneybagg Yo,177,,,,,,,10/2/2020,14,136,A Gangsta's Pain,8.362416285,230364888,14,Hip-Hop
+177,2021,77,Cry Baby,2,Megan Thee Stallion featuring DaBaby,171,,,,59,,,1/11/2021,23,137,Good News,8.349709373,223722350,23,Pop
+178,2021,78,All I Want for Christmas Is You,1,Mariah Carey,166,,,,,,,10/29/1994,3,241,Merry Christmas,9.336803438,2171718035,3,Christmas
+179,2021,79,No More Parties,2,Coi Leray featuring Lil Durk,55,,,,152,,,2/19/2021,14,140,No More Parties,7.613469046,41064737,14,Hip-Hop
+180,2021,80,What's Your Country Song,1,Thomas Rhett,252,,,,,,,9/4/2020,5,171,Country Again,8.22543317,168047931,5,Country
+181,2021,81,One Too Many,2,Keith Urban and Pink,139,201,,,,,,9/25/2020,5,203,One Too Many,8.360900036,229562019,5,Country
+182,2021,82,Arcade,1,Duncan Laurence,74,,,,,,,3/8/2019,23,183,Arcade,9.128603308,1344631584,23,Pop
+183,2021,83,Yonaguni,1,Bad Bunny,17,,,,,,,6/4/2021,27,206,Yonaguni,9.175070849,1496479764,27,Reggaeton
+184,2021,84,Good Time,1,Niko Moon,190,,,,,,,5/14/2021,23,214,GOOD TIME,8.242392736,174740163,23,Pop
+185,2021,85,If I Didn't Love You,2,Jason Aldean and Carrie Underwood,112,43,,,,,,7/23/2021,5,212,MACON,8.209358852,161941759,5,Country
+186,2021,86,Knife Talk,3,Drake featuring 21 Savage and Project Pat,72,,,,3,209,,9/3/2021,14,242,Certified Lover Boy,8.908584293,810185176,14,Hip-Hop
+187,2021,87,POV,1,Ariana Grande,12,,,,,,,5/21/2021,23,201,Positions,8.788691791,614740450,23,Pop
+188,2021,88,Just the Way,2,Parmalee and Blanco Brown,198,31,,,,,,5/28/2021,23,193,For You,8.321657012,209728288,23,Pop
+189,2021,89,Take My Breath,1,The Weeknd,251,,,,,,,8/6/2021,23,339,Dawn Fm,8.337971345,217756609,23,Pop
+190,2021,90,We're Good,1,Dua Lipa,73,,,,,,,3/12/2021,23,165,Future Nostalgia,8.737090769,545871938,23,Pop
+191,2021,91,Hell of a View,1,Eric Church,81,,,,,,,9/4/2020,5,175,Soul,8.274491123,188144325,5,Country
+192,2021,92,Rockin' Around the Christmas Tree,1,Brenda Lee,34,,,,,,,11/29/1958,3,126,Merry Christmas From Brenda Lee,9.110582362,1289978172,3,Christmas
+193,2021,93,Put Your Records On,1,Ritt Momney,216,,,,,,,4/3/2006,23,210,Put Your Records On,8.799002469,629509761,23,Pop
+194,2021,94,Happier Than Ever,1,Billie Eilish,26,,,,,,,7/30/2021,23,298,Happier Than Ever,9.188183843,1542353215,23,Pop
+195,2021,95,Single Saturday Night,1,Cole Swindell,56,,,,,,,4/23/2021,5,189,Stereotype,8.179743912,151266902,5,Country
+196,2021,96,Things a Man Oughta Know,1,Lainey Wilson,146,,,,,,,8/14/2020,5,203,Sayin' What I'm Thinkin',8.326406547,212034508,5,Country
+197,2021,97,Throat Baby (Go Baby),1,BRS Kash,35,,,,,,,10/30/2020,14,218,Kash Only,7.731445626,53882238,14,Hip-Hop
+198,2021,98,Tombstone,1,Rod Wave,217,,,,,,,4/16/2021,5,160,SoulFly,8.215661609,164309097,5,Country
+199,2021,99,Drinkin' Beer. Talkin' God. Amen.,2,Chase Rice featuring Florida Georgia Line,47,,,,86,,,4/9/2021,5,160,The Album,7.986450376,96928251,5,Country
+200,2021,100,Todo de Ti,1,Rauw Alejandro,211,,,,,,,6/9/2021,27,199,VICE VERSA,9.194278504,1564150378,27,Reggaeton
+201,2022,1,Heat Waves,1,Glass Animals,93,,,,,,,6/29/2020,16,238,Dreamland,9.522033457,3326851816,16,Indie Pop
+202,2022,2,As It Was,1,Harry Styles,102,,,,,,,4/1/2022,23,167,Harry's House,9.581580185,3815752392,23,Pop
+203,2022,3,Stay,2,The Kid Laroi and Justin Bieber,249,130,,,,,,7/9/2021,23,141,STAY (with Justin Bieber),9.54303368,3491673927,23,Pop
+204,2022,4,Easy on Me,1,Adele,9,,,,,,,10/15/2021,23,224,Easy On Me,9.321874823,2098334994,23,Pop
+205,2022,5,Shivers,1,Ed Sheeran,75,,,,,,,9/10/2021,23,207,=,9.255951139,1802814899,23,Pop
+206,2022,6,First Class,1,Jack Harlow,110,,,,,,,4/8/2022,14,173,Come Home The Kids Miss You,8.953739531,898958268,14,Hip-Hop
+207,2022,7,Big Energy,1,Latto,147,,,,,,,3/11/2022,14,173,Big Energy,8.554017202,358110621,14,Hip-Hop
+208,2022,8,Ghost,1,Justin Bieber,130,,,,,,,10/8/2021,25,153,Justice,9.277734397,1895546300,25,Pop Rock
+209,2022,9,Super Gremlin,1,Kodak Black,143,,,,,,,10/21/2021,14,200,Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies,8.67057157,468351127,14,Hip-Hop
+210,2022,10,Cold Heart (Pnau Remix),2,Elton John and Dua Lipa,76,73,,,,,,8/13/2021,23,202,Cold Heart (PNAU Remix),9.366932219,2327727939,23,Pop
+211,2022,11,Wait for U,3,Future featuring Drake and Tems,89,,,,72,247,,4/29/2022,14,189,I NEVER LIKED YOU,9.015076238,1035323897,14,Hip-Hop
+212,2022,12,About Damn Time,1,Lizzo,158,,,,,,,4/14/2022,23,191,Special,8.959124316,910173770,23,Pop
+213,2022,13,Bad Habits,1,Ed Sheeran,75,,,,,,,6/25/2021,23,230,=,9.277126272,1892893902,23,Pop
+214,2022,14,Thats What I Want,1,Lil Nas X,154,,,,,,,9/3/2021,23,143,MONTERO,9.056022793,1137686994,23,Pop
+215,2022,15,Enemy,2,Imagine Dragons and JID,106,120,,,,,,10/28/2021,2,173,Enemy (with JID),9.242122505,1746314680,2,Alternative Rock
+216,2022,16,Industry Baby,2,Lil Nas X and Jack Harlow,154,110,,,,,,7/23/2021,14,212,INDUSTRY BABY,9.330890878,2142352241,14,Hip-Hop
+217,2022,17,ABCDEFU,1,Gayle,91,,,,,,,8/13/2021,24,168,abcdefu,9.079754847,1201585966,24,Pop Punk
+218,2022,18,Need to Know,1,Doja Cat,69,,,,,,,6/9/2021,26,210,Planet Her,9.108481675,1283753601,26,R&B
+219,2022,19,Wasted on You,1,Morgan Wallen,179,,,,,,,3/3/2022,5,178,Dangerous: The Double Album,8.942838188,876674123,5,Country
+220,2022,20,Me Porto Bonito,2,Bad Bunny and Chencho Corleone,17,48,,,,,,5/6/2022,27,178,Un Verano Sin Ti,9.306478213,2025248003,27,Reggaeton
+221,2022,21,Woman,1,Doja Cat,69,,,,,,,9/3/2021,26,172,Planet Her,9.268358541,1855062479,26,R&B
+222,2022,22,Tití Me Preguntó,1,Bad Bunny,17,,,,,,,10/28/2022,27,243,Un Verano Sin Ti,9.228173453,1691116214,27,Reggaeton
+223,2022,23,Running Up That Hill (A Deal with God),1,Kate Bush,137,,,,,,,8/5/1985,30,298,Hounds Of Love,9.135033593,1364688691,30,Synth-pop
+224,2022,24,We Don't Talk About Bruno,1,Encanto cast,80,,,,,,,11/19/2021,22,216,Encanto,8.745135741,556078035,22,Musical Theater
+225,2022,25,Late Night Talking,1,Harry Styles,102,,,,,,,5/20/2022,23,177,Harry's House,9.02766683,1065778193,23,Pop
+226,2022,26,I Like You (A Happier Song),2,Post Malone featuring Doja Cat,207,,,,69,,,10/7/2022,23,192,twelve Carat Toothache,8.968044742,929062096,23,Pop
+227,2022,27,You Proof,1,Morgan Wallen,179,,,,,,,5/27/2022,5,157,One Thing At A Time ,8.921591947,834818274,5,Country
+228,2022,28,Bad Habit,1,Steve Lacy,238,,,,,,,6/6/2022,23,232,Gemini Rights,9.132143101,1355636024,23,Pop
+229,2022,29,Sunroof,2,Nicky Youre and Dazy,189,65,,,,,,2/18/2022,23,163,Sunroof(Remixes),9.057202816,1140782410,23,Pop
+230,2022,30,One Right Now,2,Post Malone and the Weeknd,207,251,,,,,,11/5/2021,23,193,One Right Now,8.840005618,691839921,23,Pop
+231,2022,31,Good 4 U,1,Olivia Rodrigo,195,,,,,,,5/14/2021,24,178,SOUR,9.376316779,2378574614,24,Pop Punk
+232,2022,32,Numb Little Bug,1,Em Beihold,77,,,,,,,3/24/2022,23,169,Numb Little Bug,8.626968221,423611968,23,Pop
+233,2022,33,Jimmy Cooks,2,Drake featuring 21 Savage,72,,,,3,,,6/17/2022,14,218,"Honestly, Nevermind",9.057784359,1142311000,14,Hip-Hop
+234,2022,34,'Til You Can't,1,Cody Johnson,54,,,,,,,1/14/2022,5,224,Human The Double Album,8.501646111,317428642,5,Country
+235,2022,35,Fancy Like,1,Walker Hayes,265,,,,,,,6/4/2021,5,161,Country Stuff The Album,8.566177247,368279247,5,Country
+236,2022,36,The Kind of Love We Make,1,Luke Combs,160,,,,,,,6/10/2022,5,224,Growin' Up,8.788714336,614772363,5,Country
+237,2022,37,I Ain't Worried,1,OneRepublic,196,,,,,,,5/13/2022,25,148,I Ain't Worried,9.286695693,1935065602,25,Pop Rock
+238,2022,38,Break My Soul,1,Beyoncé,25,,,,,,,6/20/2022,7,278,RENAISSANCE,8.681686821,480492730,7,Dance
+239,2022,39,Something in the Orange,1,Zach Bryan,278,,,,,,,2/25/2022,5,228,Something in the Orange,9.088114895,1224940220,5,Country
+240,2022,40,Save Your Tears,2,The Weeknd and Ariana Grande,251,12,,,,,,8/9/2020,30,215,After Hours,9.359630519,2288919502,30,Synth-pop
+241,2022,41,Smokin out the Window,1,Silk Sonic (Bruno Mars and Anderson .Paak),234,,,,,,,11/5/2021,26,197,An Evening With Silk Sonic,8.723779003,529393986,26,R&B
+242,2022,42,Levitating,1,Dua Lipa,73,,,,,,,3/27/2020,23,203,Future Nostalgia,9.017904747,1042088845,23,Pop
+243,2022,43,In a Minute,1,Lil Baby,151,,,,,,,4/8/2022,14,180,It's Only Me,8.287358586,193802148,14,Hip-Hop
+244,2022,44,Moscow Mule,1,Bad Bunny,17,,,,,,,4/29/2022,27,245,Un Verano Sin Ti,9.108026174,1282407869,27,Reggaeton
+245,2022,45,You Right,2,Doja Cat and the Weeknd,69,251,,,,,,7/9/2021,26,186,Planet Her,8.970237457,933764710,26,R&B
+246,2022,46,She Had Me at Heads Carolina,1,Cole Swindell,56,,,,,,,7/29/2022,5,206,Stereotype,8.46675953,292927085,5,Country
+247,2022,47,Vegas,1,Doja Cat,69,,,,,,,3/11/2022,23,182,Vegas,8.785594668,610372092,23,Pop
+248,2022,48,Pushin P,3,Gunna and Future featuring Young Thug,96,89,,,275,,,2/25/2022,14,136,DS4EVER,8.601236504,399242259,14,Hip-Hop
+249,2022,49,Buy Dirt,2,Jordan Davis and Luke Bryan,125,159,,,,,,5/21/2021,5,167,Buy Dirt,8.770685408,589773708,5,Country
+250,2022,50,I Hate U,1,SZA,243,,,,,,,12/3/2021,26,173,SOS,8.713450027,516951771,26,R&B
+251,2022,51,Boyfriend,1,Dove Cameron,71,,,,,,,5/13/2022,23,153,Alchemical: Volume 1,8.858743167,722342499,23,Pop
+252,2022,52,Glimpse of Us,1,Joji,122,,,,,,,6/10/2022,23,233,SMITHEREENS,9.174103284,1493149470,23,Pop
+253,2022,53,Surface Pressure,1,Jessica Darrow,116,,,,,,,11/19/2021,22,202,Encanto,8.552294298,356692763,22,Musical Theater
+254,2022,54,Fall in Love,1,Bailey Zimmerman,18,,,,,,,4/15/2022,23,232,Religiously. The Album,8.541604792,348020472,23,Pop
+255,2022,55,Love Nwantiti (Ah Ah Ah),1,CKay,53,,,,,,,6/19/2019,1,145,Ckay The First ,8.972054168,937678952,1,Afrobeat
+256,2022,56,Super Freaky Girl,1,Nicki Minaj,188,,,,,,,8/12/2022,14,170,Super Freaky Girl,8.78625354,611298796,14,Hip-Hop
+257,2022,57,Hrs and Hrs,1,Muni Long,180,,,,,,,1/27/2022,26,204,Public Displas of Affection: The Album,8.470048017,295153554,26,R&B
+258,2022,58,Sand in My Boots,1,Morgan Wallen,179,,,,,,,8/29/2022,5,202,Dangerous: The Double Album,8.651172414,447891081,5,Country
+259,2022,59,Mamiii,2,Becky G and Karol G,21,136,,,,,,3/11/2022,27,226,MAMIII,9.031302217,1074737040,27,Reggaeton
+260,2022,60,Knife Talk,3,Drake featuring 21 Savage and Project Pat,72,,,,3,209,,9/3/2021,14,242,Certified Lover Boy,8.908584293,810185176,14,Hip-Hop
+261,2022,61,AA,1,Walker Hayes,265,,,,,,,9/9/2022,14,189,AA,7.953734261,89894736,14,Hip-Hop
+262,2022,62,Sweetest Pie,2,Megan Thee Stallion and Dua Lipa,171,73,,,,,,3/11/2022,14,201,Sweetest Pie,8.60601641,403660645,14,Hip-Hop
+263,2022,63,Provenza,1,Karol G,136,,,,,,,4/29/2022,27,207,MANANA SERA BONITO,9.156727054,1434587539,27,Reggaeton
+264,2022,64,Essence,3,Wizkid featuring Justin Bieber and Tems,268,,,,130,247,,4/9/2021,1,263,Essence,8.200451631,158654221,1,Afrobeat
+265,2022,65,All I Want for Christmas Is You,1,Mariah Carey,166,,,,,,,10/29/1994,3,241,Merry Christmas,9.336803438,2171718035,3,Christmas
+266,2022,66,Bam Bam,2,Camila Cabello featuring Ed Sheeran,40,,,,75,,,3/4/2022,20,206,Familia,8.999095906,997920411,20,Latin Pop
+267,2022,67,5 Foot 9,1,Tyler Hubbard,262,,,,,,,6/24/2022,5,189,5 Foot 9,8.382233192,241119976,5,Country
+268,2022,68,Get Into It (Yuh),1,Doja Cat,69,,,,,,,3/11/2021,14,138,Planet Her,8.823469618,665992929,14,Hip-Hop
+269,2022,69,Efecto,1,Bad Bunny,17,,,,,,,10/28/2022,27,213,Un Verano Sin Ti,9.162857269,1454980821,27,Reggaeton
+270,2022,70,Rock and a Hard Place,1,Bailey Zimmerman,18,,,,,,,3/18/2022,5,207,Religiously. The Album,8.736921481,545659199,5,Country
+271,2022,71,Doin' This,1,Luke Combs,160,,,,,,,3/4/2022,5,254,Growin' Up,8.206915121,161033088,5,Country
+272,2022,72,Oh My God,1,Adele,9,,,,,,,10/15/2021,23,225,30,8.792403384,620016696,23,Pop
+273,2022,73,Better Days,3,"Neiked, Mae Muller and Polo G",186,163,204,,,,,4/22/2022,23,160,Better Days,8.723995932,529658482,23,Pop
+274,2022,74,Meet Me at Our Spot,1,The Anxiety: Willow and Tyler Cole,248,,,,,,,6/11/2021,2,162,THE ANXIETY,8.822362216,664296885,2,Alternative Rock
+275,2022,75,Fingers Crossed,1,Lauren Spencer-Smith,148,,,,,,,2/11/2022,23,175,Mirror,8.69195093,491983944,23,Pop
+276,2022,76,All Too Well (Taylor's Version),1,Taylor Swift,245,,,,,,,11/12/2021,6,329,Red (Taylor's Version),8.49823106,314942347,6,Country Pop
+277,2022,77,Party,2,Bad Bunny and Rauw Alejandro,17,211,,,,,,4/22/2022,23,227,Un Verano Sin Ti,8.901994124,797983891,23,Pop
+278,2022,78,Después de la Playa,1,Bad Bunny,17,,,,,,,2/25/2022,21,230,Un Verano Sin Ti,8.77740531,598970330,21,Merengue
+279,2022,79,You Should Probably Leave,1,Chris Stapleton,50,,,,,,,5/27/2022,5,213,Starting Over,8.794433756,622922125,5,Country
+280,2022,80,Rockin' Around the Christmas Tree,1,Brenda Lee,34,,,,,,,11/29/1958,3,126,Merry Christmas From Brenda Lee,9.110582362,1289978172,3,Christmas
+281,2022,81,Broadway Girls,2,Lil Durk featuring Morgan Wallen,152,,,,179,,,12/9/2022,5,185,Broadway Girls,8.66694009,464451201,5,Country
+282,2022,82,Take My Name,1,Parmalee,198,,,,,,,4/22/2022,5,157,For You,8.133047459,135846189,5,Country
+283,2022,83,What Happened to Virgil,2,Lil Durk featuring Gunna,152,,,,96,,,6/10/2022,14,181,7220,8.206498494,160878680,14,Hip-Hop
+284,2022,84,Puffin on Zootiez,1,Future,89,,,,,,,4/8/2022,14,172,I NEVER LIKED YOU,8.726364338,532554843,14,Hip-Hop
+285,2022,85,Like I Love Country Music,1,Kane Brown,135,,,,,,,7/1/2022,5,234,Like I Love Country Music,8.017898231,104207321,5,Country
+286,2022,86,Jingle Bell Rock,1,Bobby Helms,32,,,,,,,11/1/1955,3,130,Jingle Bell Rock/Captain Santa Claus,9.085444897,1217432516,3,Christmas
+287,2022,87,Ojitos Lindos,2,Bad Bunny and Bomba Estéreo,17,33,,,,,,4/22/2022,20,258,Un Verano Sin Ti,9.211294391,1626651023,20,Latin Pop
+288,2022,88,Trouble with a Heartbreak,1,Jason Aldean,112,,,,,,,3/25/2022,5,196,GEORGIA,7.778100609,59993004,5,Country
+289,2022,89,A Holly Jolly Christmas,1,Burl Ives,39,,,,,,,10/2/1962,3,135,Have A Holly Jolly Christmas,8.71002738,512893718,3,Christmas
+290,2022,90,Kiss Me More,2,Doja Cat featuring SZA,69,,,,243,,,4/9/2021,23,208,Planet her,9.313579671,2058636510,23,Pop
+291,2022,91,She Likes It,2,Russell Dickerson featuring Jake Scott,219,,,,111,,,10/7/2022,5,163,Russell Dickerson,8.115726518,130534863,5,Country
+292,2022,92,Never Say Never,2,Cole Swindell and Lainey Wilson,56,146,,,,,,2/18/2022,5,176,Sterotype,7.847160575,70333232,5,Country
+293,2022,93,Damn Strait,1,Scotty McCreery,227,,,,,,,3/18/2022,5,230,Damn Strait,7.80565136,63922148,5,Country
+294,2022,94,She's All I Wanna Be,1,Tate McRae,244,,,,,,,3/11/2022,24,207,I used to think i could fly,8.755997768,570161342,24,Pop Punk
+295,2022,95,Last Night Lonely,1,Jon Pardi,123,,,,,,,5/6/2022,5,182,Mr. Saturday Night,8.217794598,165118068,5,Country
+296,2022,96,Flower Shops,2,Ernest featuring Morgan Wallen,82,,,,179,,,3/11/2022,5,214,FLOWER SHOPS (THE ALBUM),8.466138659,292508613,5,Country
+297,2022,97,To the Moon,2,Jnr Choi and Sam Tompkins,121,225,,,,,,5/6/2022,23,152,TO THE MOON,2.462397998,290,23,Pop
+298,2022,98,Unholy,2,Sam Smith and Kim Petras,224,,,,142,,,9/22/2022,23,156,Unholy(feat. Kim Petras),9.242158877,1746460941,23,Pop
+299,2022,99,One Mississippi,1,Kane Brown,135,,,,,,,11/18/2022,5,213,One Mississippi,8.045435251,111028699,5,Country
+300,2022,100,Circles Around This Town,1,Maren Morris,165,,,,,,,1/21/2022,5,195,Circles Around This Town ,7.635040762,43155958,5,Country
+301,2023,1,Last Night,1,Morgan Wallen,179,,,,,,,1/31/2023,5,163,3 Songs At A Time Sampler,9.084490387,1214759733,5,Country
+302,2023,2,Flowers,1,Miley Cyrus,175,,,,,,,1/13/2023,23,200,Endless Summer Vacation,9.396070459,2489261139,23,Pop
+303,2023,3,Kill Bill,1,SZA,243,,,,,,,12/9/2022,26,153,SOS,9.386778982,2436570500,26,R&B
+304,2023,4,Anti-Hero,1,Taylor Swift,245,,,,,,,10/21/2022,23,200,Midnights,9.255993355,1802990154,23,Pop
+305,2023,5,Creepin',3,"Metro Boomin, the Weeknd and 21 Savage",173,251,3,,,,,12/2/2022,14,221,HEROES & VILLAINS,9.191075528,1552657010,14,Hip-Hop
+306,2023,6,Calm Down,2,Rema and Selena Gomez,213,228,,,,,,2/11/2022,1,239,Calm Down(with Selena Gomez),9.210118293,1622251904,1,Afrobeat
+307,2023,7,Die for You,2,The Weeknd and Ariana Grande,251,12,,,,,,11/25/2016,23,260,Starboy,9.43469326,2720778956,23,Pop
+308,2023,8,Fast Car,1,Luke Combs,160,,,,,,,3/24/2023,5,265,gettin' Old,8.875788818,751257496,5,Country
+309,2023,9,Snooze,1,SZA,243,,,,,,,12/9/2022,26,186,Saturn,8.898192639,791029425,26,R&B
+310,2023,10,I'm Good (Blue),2,David Guetta and Bebe Rexha,63,20,,,,,,8/26/2022,11,175,I'm Good (Blue),9.308795706,2036084071,11,Electronic
+311,2023,11,Unholy,2,Sam Smith and Kim Petras,224,142,,,,,,9/22/2022,23,156,Unholy(feat. Kim Petras),9.242158877,1746460941,23,Pop
+312,2023,12,You Proof,1,Morgan Wallen,179,,,,,,,5/27/2022,5,157,One Thing At A Time ,8.921591947,834818274,5,Country
+313,2023,13,Something in the Orange,1,Zach Bryan,278,,,,,,,2/25/2022,5,228,Something in the Orange,9.088114895,1224940220,5,Country
+314,2023,14,Rich Flex,2,Drake and 21 Savage,72,3,,,,,,11/4/2022,14,239,Her Loss,8.953492206,898446468,14,Hip-Hop
+315,2023,15,As It Was,1,Harry Styles,102,,,,,,,4/1/2022,23,167,Harry's House,9.581580185,3815752392,23,Pop
+316,2023,16,Rock and a Hard Place,1,Bailey Zimmerman,18,,,,,,,3/18/2022,5,207,Religiously. The Album,8.736921481,545659199,5,Country
+317,2023,17,Under the Influence,1,Chris Brown,49,,,,,,,10/4/2019,26,184,Indigo,9.19076186,1551536011,26,R&B
+318,2023,18,Cruel Summer,1,Taylor Swift,245,,,,,,,8/23/2019,23,178,Lover,9.451913021,2830824994,23,Pop
+319,2023,19,Thinkin' Bout Me,1,Morgan Wallen,179,,,,,,,3/3/2023,23,177,One Thing At A Time,8.792904504,620732528,23,Pop
+320,2023,20,Boy's a Liar Pt. 2,2,PinkPantheress and Ice Spice,202,105,,,,,,2/3/2023,23,131,Boy's a liar Pt.2,8.979217332,953273086,23,Pop
+321,2023,21,Favorite Song,1,Toosii,255,,,,,,,2/17/2023,23,208,Favorite Song,8.367275442,232956827,23,Pop
+322,2023,22,Thought You Should Know,1,Morgan Wallen,179,,,,,,,5/26/2022,5,215,One Thin At A Time,8.635630255,432145759,5,Country
+323,2023,23,Thank God,2,Kane Brown and Katelyn Brown,135,138,,,,,,3/9/2022,5,174,Different Man,8.298962874,199050317,5,Country
+324,2023,24,Sure Thing,1,Miguel,174,,,,,,,11/30/2010,26,195,All I Want Is You,9.233144787,1710585503,26,R&B
+325,2023,25,All My Life,2,Lil Durk featuring J. Cole,152,,,,109,,,5/12/2023,14,331,Love Always,8.493265985,311362270,14,Hip-Hop
+326,2023,26,Ella Baila Sola,2,Eslabon Armado and Peso Pluma,83,200,,,,,,3/17/2023,28,165,Ella Baila Sola,9.141431412,1384941446,28,Regional Mexican
+327,2023,27,Karma,2,Taylor Swift featuring Ice Spice,245,,,,105,,,10/21/2022,23,204,Midnights,8.957335263,906432071,23,Pop
+328,2023,28,Just Wanna Rock,1,Lil Uzi Vert,156,,,,,,,10/17/2022,14,123,Just Wanna Rock,8.886561655,770125768,14,Hip-Hop
+329,2023,29,Cuff It,1,Beyoncé,25,,,,,,,7/29/2022,26,225,RENAISSANCE,8.943792361,878602350,26,R&B
+330,2023,30,Vampire,1,Olivia Rodrigo,195,,,,,,,6/30/2023,17,219,GUTS,9.117144856,1309618666,17,Indie Rock
+331,2023,31,FukUMean,1,Gunna,96,,,,,,,6/16/2023,14,125,a Gift & a Curse,9.023147931,1054746107,14,Hip-Hop
+332,2023,32,Lavender Haze,1,Taylor Swift,245,,,,,,,10/21/2022,23,322,Midnights,8.907638826,808423307,23,Pop
+333,2023,33,Players,1,Coi Leray,55,,,,,,,11/30/2022,14,139,Players,8.712440138,515751070,14,Hip-Hop
+334,2023,34,Need a Favor,1,Jelly Roll,115,,,,,,,12/9/2022,16,197,Whitsitt Chapel,8.389549137,245216188,16,Indie Pop
+335,2023,35,Dance the Night,1,Dua Lipa,73,,,,,,,5/26/2023,23,176,Barbie The Album,9.036923221,1088737599,23,Pop
+336,2023,36,Love You Anyway,1,Luke Combs,160,,,,,,,2/10/2023,5,229,Gettin' Old,8.325011092,211354302,5,Country
+337,2023,37,One Thing at a Time,1,Morgan Wallen,179,,,,,,,12/2/2022,5,206,One Thing At A Time,8.468936295,294398976,5,Country
+338,2023,38,Superhero (Heroes & Villains),3,"Metro Boomin, Future and Chris Brown",173,89,49,,,,,12/2/2022,14,182,HEROES & VILLAINS,8.944909275,880864839,14,Hip-Hop
+339,2023,39,Bad Habit,1,Steve Lacy,238,,,,,,,6/6/2022,23,232,Gemini Rights,9.132143101,1355636024,23,Pop
+340,2023,40,La Bebé,2,Yng Lvcas and Peso Pluma,272,200,,,,,,3/17/2023,27,234,La Bebe(Remix),9.08797579,1224547934,27,Reggaeton
+341,2023,41,Golden Hour,1,Jvke,131,,,,,,,7/15/2022,5,209,this is what falling in love feels like,9.123672979,1329452972,5,Country
+342,2023,42,Religiously,1,Bailey Zimmerman,18,,,,,,,3/17/2023,5,178,Religiously. The Album,8.503044297,318452232,5,Country
+343,2023,43,Spin Bout U,2,Drake and 21 Savage,72,3,,,,,,11/4/2022,26,214,Her Loss,8.637619892,434130094,26,R&B
+344,2023,44,Cupid,1,Fifty Fifty,84,,,,,,,2/24/2023,18,174,The Beginning: Cupid,8.988553043,973986736,18,K-pop
+345,2023,45,Search & Rescue,1,Drake,72,,,,,,,4/7/2023,14,272,Search & Rescue,8.594215097,392839452,14,Hip-Hop
+346,2023,46,Barbie World,3,Nicki Minaj and Ice Spice with Aqua,188,105,11,,,,,6/23/2023,23,109,Barbie World,8.725076247,530977657,23,Pop
+347,2023,47,Next Thing You Know,1,Jordan Davis,125,,,,,,,8/12/2022,5,175,Next Thing You Know,8.515807772,327950103,5,Country
+348,2023,48,Escapism,2,Raye featuring 070 Shake,212,,,,2,,,10/12/2022,23,272,Escapism,8.994224493,986789440,23,Pop
+349,2023,49,Un x100to,2,Grupo Frontera and Bad Bunny,95,17,,,,,,4/17/2023,27,194,Un x100to,9.104708747,1272649311,27,Reggaeton
+350,2023,50,Until I Found You,1,Stephen Sanchez,237,,,,,,,9/1/2021,23,177,Until I Found You,9.09721025,1250864449,23,Pop
+351,2023,51,Shirt,1,SZA,243,,,,,,,10/28/2022,26,181,SOS,8.761962011,578045482,26,R&B
+352,2023,52,Paint the Town Red,1,Doja Cat,69,,,,,,,8/4/2023,23,231,Paint The Town Red,9.125623315,1335436723,23,Pop
+353,2023,53,Made You Look,1,Meghan Trainor,172,,,,,,,10/21/2022,23,134,Talkin' It Back,8.938251183,867463446,23,Pop
+354,2023,54,Wait in the Truck,2,Hardy featuring Lainey Wilson,101,,,,146,,,8/26/2022,5,277,the mockingbird & THE CROW,8.214234625,163770104,5,Country
+355,2023,55,All I Want for Christmas Is You,1,Mariah Carey,166,,,,,,,10/29/1994,3,241,Merry Christmas,9.336803438,2171718035,3,Christmas
+356,2023,56,Everything I Love,1,Morgan Wallen,179,,,,,,,1/31/2023,5,187,3 Songs At A Time Sampler,8.339954685,218753336,5,Country
+357,2023,57,Chemical,1,Post Malone,207,,,,,,,4/14/2023,23,183,AUSTIN,8.790363158,617110815,23,Pop
+358,2023,58,Heart Like a Truck,1,Lainey Wilson,146,,,,,,,5/20/2022,5,199,Bell Bottom Country,8.316395192,207202596,5,Country
+359,2023,59,"Going, Going, Gone",1,Luke Combs,160,,,,,,,1/24/2022,5,177,Growin' Up,8.466406865,292689313,5,Country
+360,2023,60,Rockin' Around the Christmas Tree,1,Brenda Lee,34,,,,,,,11/29/1958,3,126,Merry Christmas From Brenda Lee,9.110582362,1289978172,3,Christmas
+361,2023,61,Dancin' in the Country,1,Tyler Hubbard,262,,,,,,,8/19/2022,5,179,Tyler Hubbard,8.290391125,195160142,5,Country
+362,2023,62,Daylight,1,David Kushner,64,,,,,,,8/23/2019,23,293,Lover,8.710919211,513948036,23,Pop
+363,2023,63,Lift Me Up,1,Rihanna,215,,,,,,,10/28/2022,23,196,Lift Me Up,8.625366686,422052703,23,Pop
+364,2023,64,Eyes Closed,1,Ed Sheeran,75,,,,,,,3/24/2023,23,194,-,8.639903353,436418702,23,Pop
+365,2023,65,TQG,2,Karol G and Shakira,136,232,,,,,,2/24/2023,27,197,MANANA SERA BONITO,9.096580686,1249052480,27,Reggaeton
+366,2023,66,Try That in a Small Town,1,Jason Aldean,112,,,,,,,5/19/2023,5,181,Highway Desperado,7.944586076,88020955,5,Country
+367,2023,67,Tennessee Orange,1,Megan Moroney,170,,,,,,,9/2/2022,5,223,Lucky,8.546470903,351941842,5,Country
+368,2023,68,Jingle Bell Rock,1,Bobby Helms,32,,,,,,,11/1/1955,3,130,Jingle Bell Rock/Captain Santa Claus,9.085444897,1217432516,3,Christmas
+369,2023,69,Princess Diana,2,Ice Spice and Nicki Minaj,105,188,,,,,,4/14/2023,23,172,Princess Diana,8.40610796,254746344,23,Pop
+370,2023,70,Tomorrow 2,2,GloRilla and Cardi B,94,41,,,,,,9/23/2022,14,209,"Anyways, Life's Great...",8.296571737,197957398,14,Hip-Hop
+371,2023,71,A Holly Jolly Christmas,1,Burl Ives,39,,,,,,,10/2/1962,3,135,Have A Holly Jolly Christmas,8.71002738,512893718,3,Christmas
+372,2023,72,Where She Goes,1,Bad Bunny,17,,,,,,,5/18/2023,23,231,WHERE SHE GOES,8.91804741,828032551,23,Pop
+373,2023,73,Bebe Dame,2,Fuerza Regida and Grupo Frontera,88,95,,,,,,12/16/2022,27,271,Bebe Dame,8.814733444,652729805,27,Reggaeton
+374,2023,74,I Remember Everything,2,Zach Bryan featuring Kacey Musgraves,278,,,,132,,,8/25/2023,5,227,Zach Bryan,9.013619159,1031856156,5,Country
+375,2023,75,I Like You (A Happier Song),2,Post Malone featuring Doja Cat,207,,,,69,,,10/7/2022,23,192,twelve Carat Toothache,8.968044742,929062096,23,Pop
+376,2023,76,What It Is (Block Boy),2,Doechii featuring Kodak Black,68,,,,143,,,3/17/2023,14,223,What It Is,8.096366071,124843539,14,Hip-Hop
+377,2023,77,Nobody Gets Me,1,SZA,243,,,,,,,12/9/2022,26,180,SOS,8.974085896,942075904,26,R&B
+378,2023,78,Rich Men North of Richmond,1,Oliver Anthony Music,194,,,,,,,8/8/2023,5,187,Rich Men North of Richmond,8.458684019,287530566,5,Country
+379,2023,79,Super Freaky Girl,1,Nicki Minaj,188,,,,,,,8/12/2022,14,170,Super Freaky Girl,8.78625354,611298796,14,Hip-Hop
+380,2023,80,Dial Drunk,2,Noah Kahan and Post Malone,192,207,,,,,,7/17/2023,23,213,Dial Drunk,8.642369204,438903662,23,Pop
+381,2023,81,What Was I Made For?,1,Billie Eilish,26,,,,,,,6/13/2023,23,222,What Was I Made For?,9.104255792,1271322672,23,Pop
+382,2023,82,Seven,2,Jungkook featuring Latto,129,,,,147,,,7/14/2023,23,184,Seven,9.359765526,2289631153,23,Pop
+383,2023,83,Wait for U,3,Future featuring Drake and Tems,89,,,,72,247,,4/29/2022,14,189,I NEVER LIKED YOU,9.015076238,1035323897,14,Hip-Hop
+384,2023,84,Last Christmas,1,Wham!,267,,,,,,,12/3/1984,3,262,LAST CHRISTMAS,9.272339876,1872146695,3,Christmas
+385,2023,85,Handle on You,1,Parker McCollum,197,,,,,,,8/5/2022,5,219,Never Enough,8.129798285,134833648,5,Country
+386,2023,86,Por Las Noches,1,Peso Pluma,200,,,,,,,6/11/2021,28,238,Por Las Noches,8.783627549,607613688,28,Regional Mexican
+387,2023,87,Memory Lane,1,Old Dominion,193,,,,,,,1/5/2023,26,172,Memory Lane,8.234172644,171463879,26,R&B
+388,2023,88,Area Codes,1,Kaliii,134,,,,,,,5/17/2023,14,139,Area Codes,8.431074679,269820336,14,Hip-Hop
+389,2023,89,Bury Me in Georgia,1,Kane Brown,135,,,,,,,9/9/2022,5,242,Different Man,7.463201029,29053672,5,Country
+390,2023,90,PRC,2,Peso Pluma and Natanael Cano,200,183,,,,,,1/24/2023,14,184,PRC,8.87497469,749850508,14,Hip-Hop
+391,2023,91,What My World Spins Around,1,Jordan Davis,125,,,,,,,5/27/2022,5,186,Bluebird Days,8.469367583,294691482,5,Country
+392,2023,92,Ain't That Some,1,Morgan Wallen,179,,,,,,,3/3/2023,5,158,One Thing At A Time,8.496152613,313438697,5,Country
+393,2023,93,Wild as Her,1,Corey Kent,57,,,,,,,3/4/2022,5,199,Wild as Her,8.372680672,235874326,5,Country
+394,2023,94,Peaches & Eggplants,2,Young Nudy featuring 21 Savage,274,,,,2,,,2/28/2023,14,203,Gumbo,8.294250752,196902283,14,Hip-Hop
+395,2023,95,I Wrote the Book,1,Morgan Wallen,179,,,,,,,1/31/2023,23,181,3 Songs At A Time Sampler,8.235481422,171981377,23,Pop
+396,2023,96,"Bzrp Music Sessions, Vol. 53",2,Bizarrap and Shakira,27,232,,,,,,1/11/2023,19,214,"Bzrp Music Sessions, Vol. 53",9.024701296,1058525431,19,Latin
+397,2023,97,Meltdown,2,Travis Scott featuring Drake,257,,,,72,,,7/28/2023,14,246,UTOPIA,8.636136124,432649418,14,Hip-Hop
+398,2023,98,Put It on da Floor Again,2,Latto featuring Cardi B,147,,,,41,,,6/2/2023,14,185,Put It on da Floor Again,7.879632381,75793573,14,Hip-Hop
+399,2023,99,Bloody Mary,1,Lady Gaga,145,,,,,,,5/23/2011,23,244,Born This Way (Special Edition),8.806505535,640479944,23,Pop
+400,2023,100,Watermelon Moonshine,1,Lainey Wilson,146,,,,,,,8/12/2022,5,208,Bell Bottom Country,8.274541548,188166171,5,Country
+401,2024,1,Lose Control,1,Teddy Swims,246,,,,,,,6/23/2023,10,210,Lose Control,9.220346852,1660912875,10,EDM
+402,2024,2,A Bar Song (Tipsy),1,Shaboozey,230,,,,,,,12/2/2024,5,171,A Bar Song (Tipsy),9.074667048,1187591410,5,Country
+403,2024,3,Beautiful Things,1,Benson Boone,24,,,,,,,1/18/2024,23,180,Beautiful Things,9.298051005,1986328184,23,Pop
+404,2024,4,I Had Some Help,2,Post Malone featuring Morgan Wallen,207,,,,179,,,5/10/2024,17,178,I Had Some Hlep,9.005429787,1012581030,17,Indie Rock
+405,2024,5,Lovin on Me,1,Jack Harlow,110,,,,,,,11/10/2023,26,138,Lovin On Me,8.95247409,896342709,26,R&B
+406,2024,6,Not Like Us,1,Kendrick Lamar,140,,,,,,,5/4/2024,14,274,Not Like Us,9.13525379,1365380795,14,Hip-Hop
+407,2024,7,Espresso,1,Sabrina Carpenter,221,,,,,,,4/11/2024,23,175,Please Please Please,9.321481704,2096436458,23,Pop
+408,2024,8,Million Dollar Baby,1,Tommy Richman,253,,,,,,,4/26/2024,23,155,Million Dollar Baby,9.062167276,1153897616,23,Pop
+409,2024,9,I Remember Everything,2,Zach Bryan featuring Kacey Musgraves,278,,,,132,,,8/25/2023,5,227,Zach Bryan,9.013619159,1031856156,5,Country
+410,2024,10,Too Sweet,1,Hozier,103,,,,,,,3/22/2024,23,251,Unheard,9.14563098,1398398600,23,Pop
+411,2024,11,Stick Season,1,Noah Kahan,192,,,,,,,7/8/2022,15,182,Stick Season,9.163160009,1455995421,15,Indie Folk
+412,2024,12,Cruel Summer,1,Taylor Swift,245,,,,,,,8/23/2019,23,178,Lover,9.451913021,2830824994,23,Pop
+413,2024,13,Greedy,1,Tate McRae,244,,,,,,,9/15/2023,23,121,greedy,9.234361559,1715384805,23,Pop
+414,2024,14,Like That,3,"Future, Metro Boomin and Kendrick Lamar",89,173,140,,,,,3/22/2024,14,267,WE DON'T TRUST YOU,8.8688973,739430398,14,Hip-Hop
+415,2024,15,Birds of a Feather,1,Billie Eilish,26,,,,,,,5/17/2024,17,210,HIT ME HARD AND SOFT,9.366521566,2325527962,17,Indie Rock
+416,2024,16,Please Please Please,1,Sabrina Carpenter,221,,,,,,,6/6/2024,16,186,Please Please Please,9.128970024,1345767464,16,Indie Pop
+417,2024,17,Agora Hills,1,Doja Cat,69,,,,,,,9/22/2023,16,265,Scarlet,8.853744313,714075796,16,Indie Pop
+418,2024,18,"Good Luck, Babe!",1,Chappell Roan,45,,,,,,,4/5/2024,16,218,"Good Luck, Babe!",9.150274796,1413431597,16,Indie Pop
+419,2024,19,Saturn,1,SZA,243,,,,,,,2/22/2024,26,186,Saturn,8.898192639,791029425,26,R&B
+420,2024,20,Snooze,1,SZA,243,,,,,,,12/9/2022,26,186,Saturn,8.898192639,791029425,26,R&B
+421,2024,21,Paint the Town Red,1,Doja Cat,69,,,,,,,8/4/2023,23,231,Paint The Town Red,9.125623315,1335436723,23,Pop
+422,2024,22,Fortnight,2,Taylor Swift featuring Post Malone,245,,,,207,,,4/19/2024,17,228,THE TORTURED POETS DEPARTMENT,8.946435639,883966159,17,Indie Rock
+423,2024,23,Fast Car,1,Luke Combs,160,,,,,,,3/24/2023,5,265,gettin' Old,8.875788818,751257496,5,Country
+424,2024,24,Water,1,Tyla,261,,,,,,,6/28/2023,23,182,Water,9.019846523,1046758564,23,Pop
+425,2024,25,Feather,1,Sabrina Carpenter,221,,,,,,,3/17/2023,15,185,emails i can't send fwd:,8.935916811,862813260,15,Indie Folk
+426,2024,26,We Can't Be Friends (Wait for Your Love),1,Ariana Grande,12,,,,,,,3/8/2024,16,228,eternal sunshine ,9.121641694,1323249365,16,Indie Pop
+427,2024,27,Austin,1,Dasha,62,,,,,,,11/17/2023,5,171,What Happens Now?,8.904810989,803176492,5,Country
+428,2024,28,Last Night,1,Morgan Wallen,179,,,,,,,1/31/2023,5,163,3 Songs At A Time Sampler,9.084490387,1214759733,5,Country
+429,2024,29,Cowgirls,2,Morgan Wallen featuring Ernest,179,,,,82,,,3/3/2023,5,181,One Thing At A Time,8.735408312,543761321,5,Country
+430,2024,30,Pink Skies,1,Zach Bryan,278,,,,,,,5/24/2024,16,194,Pink Skies,8.653766019,450573887,16,Indie Pop
+431,2024,31,Thinkin' Bout Me,1,Morgan Wallen,179,,,,,,,3/3/2023,23,177,One Thing At A Time,8.792904504,620732528,23,Pop
+432,2024,32,Texas Hold 'Em,1,Beyoncé,25,,,,,,,2/11/2024,5,233,Texas Hold 'Em,8.809170926,644422842,5,Country
+433,2024,33,Is It Over Now?,1,Taylor Swift,245,,,,,,,10/27/2023,23,229,1989(Taylor's Version),8.708414539,510992515,23,Pop
+434,2024,34,Miles on It,2,Marshmello and Kane Brown,168,135,,,,,,5/3/2024,14,168,Miles on It,8.417120916,261288873,14,Hip-Hop
+435,2024,35,I Can Do It with a Broken Heart,1,Taylor Swift,245,,,,,,,4/19/2024,5,218,THE TORTURED POETS DEPARTMENT,8.797543133,627398005,5,Country
+436,2024,36,Wild Ones,2,Jessie Murph and Jelly Roll,117,115,,,,,,10/6/2023,23,141,Wild Ones,8.439891391,275354001,23,Pop
+437,2024,37,Ain't No Love in Oklahoma,1,Luke Combs,160,,,,,,,5/16/2024,5,210,Twisters: The Album,8.484749578,305316010,5,Country
+438,2024,38,Carnival,3,¥$: Ye and Ty Dolla Sign featuring Rich the Kid and Playboi Carti,1,,,,214,203,,2/10/2024,23,264,VULTURES 1,8.860844062,725845289,23,Pop
+439,2024,39,Houdini,1,Eminem,79,,,,,,,5/31/2024,23,227,Houdini,8.78155088,604715193,23,Pop
+440,2024,40,Wanna Be,2,GloRilla and Megan Thee Stallion,94,171,,,,,,4/5/2024,23,156,Wanna Be,8.275165508,188436708,23,Pop
+441,2024,41,Slow It Down,1,Benson Boone,24,,,,,,,3/21/2024,26,161,Fireworks & Rollerblades,8.850022796,707982945,26,R&B
+442,2024,42,Redrum,1,21 Savage,3,,,,,,,1/12/2024,14,270,american dream,8.83012434,676276568,14,Hip-Hop
+443,2024,43,Houdini,1,Dua Lipa,73,,,,,,,11/9/2023,12,185,Radical Optimism,8.922022979,835647232,12,Electropop
+444,2024,44,Yeah Glo!,1,GloRilla,94,,,,,,,2/9/2024,14,142,Yeah Glo!,8.408787776,256323117,14,Hip-Hop
+445,2024,45,Rich Baby Daddy,3,Drake featuring Sexyy Red and SZA,72,,,,229,243,,10/6/2023,26,319,For All The Dogs,8.727027832,533369076,26,R&B
+446,2024,46,What Was I Made For?,1,Billie Eilish,26,,,,,,,6/13/2023,23,222,What Was I Made For?,9.104255792,1271322672,23,Pop
+447,2024,47,End of Beginning,1,Djo,67,,,,,,,9/16/2022,29,159,DECIDE,9.152137797,1419507844,29,Rock
+448,2024,48,Lunch,1,Billie Eilish,26,,,,,,,5/17/2024,16,179,HIT ME HARD AMD SOFT,8.873856733,747922732,16,Indie Pop
+449,2024,49,Never Lose Me,1,Flo Milli,85,,,,,,,12/1/2023,16,125,Never Lose Me,8.663484266,460770075,16,Indie Pop
+450,2024,50,Lies Lies Lies,1,Morgan Wallen,179,,,,,,,3/3/2024,23,198,Lies Lies Lies,8.382842018,241458233,23,Pop
+451,2024,51,Type Shit,4,"Future, Metro Boomin, Travis Scott, and Playboi Carti",89,173,257,203,,,,3/22/2024,14,228,WE DON't TRUST YOU,8.723769753,529382710,14,Hip-Hop
+452,2024,52,Gata Only,2,FloyyMenor and Cris MJ,87,58,,,,,,2/2/2024,19,222,Gata Only,9.18285677,1523550205,19,Latin
+453,2024,53,Hot to Go!,1,Chappell Roan,45,,,,,,,8/11/2023,23,184,The Rise and Fall of a Midwest Princess,8.8062467,640098339,23,Pop
+454,2024,54,All I Want for Christmas Is You,1,Mariah Carey,166,,,,,,,10/29/1994,3,241,Merry Christmas,9.336803438,2171718035,3,Christmas
+455,2024,55,Get It Sexyy,1,Sexyy Red,229,,,,,,,3/15/2024,26,148,Get It Sexyy,8.350857489,224314573,26,R&B
+456,2024,56,Made for Me,1,Muni Long,180,,,,,,,9/15/2023,23,188,Made For Me,8.36859705,233666821,23,Pop
+457,2024,57,Vampire,1,Olivia Rodrigo,195,,,,,,,6/30/2023,17,219,GUTS,9.117144856,1309618666,17,Indie Rock
+458,2024,58,Whatever She Wants,1,Bryson Tiller,37,,,,,,,2/13/2024,23,161,Whatever She Wants,8.563026495,365617096,23,Pop
+459,2024,59,Rockin' Around the Christmas Tree,1,Brenda Lee,34,,,,,,,11/29/1958,3,126,Merry Christmas From Brenda Lee,9.110582362,1289978172,3,Christmas
+460,2024,60,Pretty Little Poison,1,Warren Zeiders,266,,,,,,,3/17/2023,16,218,Pretty Little Poison,8.41459956,259776320,16,Indie Pop
+461,2024,61,First Person Shooter,2,Drake featuring J. Cole,72,,,,109,,,10/6/2023,23,247,For All The Dogs,8.62211895,418908285,23,Pop
+462,2024,62,Die with a Smile,2,Lady Gaga and Bruno Mars,145,36,,,,,,8/16/2024,29,251,Die with a Smile,9.345860933,2217486236,29,Rock
+463,2024,63,I Like the Way You Kiss Me,1,Artemas,14,,,,,,,3/19/2024,26,142,i like the way you kiss me,9.094333894,1242607280,26,R&B
+464,2024,64,Need a Favor,1,Jelly Roll,115,,,,,,,12/9/2022,16,197,Whitsitt Chapel,8.389549137,245216188,16,Indie Pop
+465,2024,65,Save Me,2,Jelly Roll featuring Lainey Wilson,115,,,,146,,,6/16/2020,29,237,Whitsitt Chapel,8.185517952,153291457,29,Rock
+466,2024,66,Euphoria,1,Kendrick Lamar,140,,,,,,,4/30/2024,23,383,euphoria,8.566064194,368183392,23,Pop
+467,2024,67,Truck Bed,1,Hardy,101,,,,,,,10/10/2022,5,167,the mockingbird & THE CROW,8.487571565,307306372,5,Country
+468,2024,68,Jingle Bell Rock,1,Bobby Helms,32,,,,,,,11/1/1955,3,130,Jingle Bell Rock/Captain Santa Claus,9.085444897,1217432516,3,Christmas
+469,2024,69,Flowers,1,Miley Cyrus,175,,,,,,,1/13/2023,23,200,Endless Summer Vacation,9.396070459,2489261139,23,Pop
+470,2024,70,Where the Wild Things Are,1,Luke Combs,160,,,,,,,3/24/2023,17,239,Gettin' Old,8.582637734,382505544,17,Indie Rock
+471,2024,71,Everybody,2,Nicki Minaj featuring Lil Uzi Vert,188,,,,156,,,12/8/2023,23,180,Pink Friday 2,8.175395837,149760002,23,Pop
+472,2024,72,La Diabla,1,Xavi,269,,,,,,,1/30/2023,19,172,La Diabla,8.940980515,872932202,19,Latin
+473,2024,73,Stargazing,1,Myles Smith,182,,,,,,,5/10/2024,16,172,Stargazing,8.855573853,717090309,16,Indie Pop
+474,2024,74,Last Christmas,1,Wham!,267,,,,,,,12/3/1984,3,262,LAST CHRISTMAS,9.272339876,1872146695,3,Christmas
+475,2024,75,I Am Not Okay,1,Jelly Roll,115,,,,,,,6/12/2024,29,198,Beautifully Broken,8.039344289,109482395,29,Rock
+476,2024,76,Pour Me a Drink,2,Post Malone featuring Blake Shelton,207,,,,20,,,6/21/2024,5,181,Pour Me A Drink,8.254518645,179687822,5,Country
+477,2024,77,White Horse,1,Chris Stapleton,50,,,,,,,7/21/2023,5,267,White Horse,8.422642484,264632076,5,Country
+478,2024,78,Lil Boo Thang,1,Paul Russell,199,,,,,,,8/18/2023,26,114,Lil Boo Thang,8.567206727,369153276,26,R&B
+479,2024,79,Good Good,3,"Usher, Summer Walker and 21 Savage",263,239,3,,,,,8/2/2023,26,247,Good Good,7.870506362,74217507,26,R&B
+480,2024,80,Act II: Date @ 8,2,4Batz and Drake,6,72,,,,,,3/8/2024,16,231,Act II: Date @ 8,8.171470542,148412521,16,Indie Pop
+481,2024,81,High Road,2,Koe Wetzel featuring Jessie Murph,144,,,,117,,,6/7/2024,29,179,High Road,8.255499536,180094121,29,Rock
+482,2024,82,Monaco,1,Bad Bunny,17,,,,,,,10/13/2023,23,267,nadie sabe lo que va a pasar manana,8.784017139,608159001,23,Pop
+483,2024,83,IDGAF,2,Drake featuring Yeat,72,,,,270,,,10/6/2023,23,260,For All The Dogs,8.714279568,517940138,23,Pop
+484,2024,84,Burn It Down,1,Parker McCollum,197,,,,,,,5/12/2023,29,233,Never Enough,7.804690003,63780806,29,Rock
+485,2024,85,FukUMean,1,Gunna,96,,,,,,,6/16/2023,14,125,a Gift & a Curse,9.023147931,1054746107,14,Hip-Hop
+486,2024,86,Taste,1,Sabrina Carpenter,221,,,,,,,8/23/2024,14,157,Short n 'Sweet,8.971358004,936177080,14,Hip-Hop
+487,2024,87,Where It Ends,1,Bailey Zimmerman,18,,,,,,,8/19/2022,23,179,Religiously. The Album.,8.473529257,297528969,23,Pop
+488,2024,88,FTCU,1,Nicki Minaj,188,,,,,,,12/8/2023,14,172,Pink Friday 2,8.34993461,223838409,14,Hip-Hop
+489,2024,89,Wildflower,1,Billie Eilish,26,,,,,,,5/17/2024,16,261,HIT ME HARD AND SOFT,9.021729805,1051307603,16,Indie Pop
+490,2024,90,World on Fire,1,Nate Smith,184,,,,,,,4/28/2023,23,189,NATE SMITH,8.253819875,179398941,23,Pop
+491,2024,91,On My Mama,1,Victoria Monét,264,,,,,,,6/16/2023,14,184,JAGUAR II,8.218122603,165242822,14,Hip-Hop
+492,2024,92,"Yes, And?",1,Ariana Grande,12,,,,,,,1/12/2024,16,214,enternal sunshine deluxe,8.786277376,611332347,16,Indie Pop
+493,2024,93,Exes,1,Tate McRae,244,,,,,,,11/17/2023,23,159,THINK LATER,8.760996847,576762276,23,Pop
+494,2024,94,A Holly Jolly Christmas,1,Burl Ives,39,,,,,,,10/2/1962,3,135,Have A Holly Jolly Christmas,8.71002738,512893718,3,Christmas
+495,2024,95,Wind Up Missin' You,1,Tucker Wetmore,259,,,,,,,3/29/2024,23,166,Wind Up Missin' You,8.413742961,259264444,23,Pop
+496,2024,96,Bulletproof,1,Nate Smith,184,,,,,,,2/9/2024,23,183,Bulletproof,7.895863518,78679849,23,Pop
+497,2024,97,Fe!n,2,Travis Scott featuring Playboi Carti,257,,,,203,,,7/28/2023,14,191,UTOPIA,9.095320305,1245432817,14,Hip-Hop
+498,2024,98,The Painter,1,Cody Johnson,54,,,,,,,8/11/2023,17,211,The Painter,8.303408214,201098214,17,Indie Rock
+499,2024,99,Down Bad,1,Taylor Swift,245,,,,,,,4/19/2024,14,261,THE TORTURED POETS DEPARTMENT,8.618753464,415674577,14,Hip-Hop
+500,2024,100,Dance the Night,1,Dua Lipa,73,,,,,,,5/26/2023,23,176,Barbie The Album,9.036923221,1088737599,23,Pop
