@@ -84,13 +84,13 @@ To have a more focus driven analyisis of the dataset, I asked ChatGPT to provide
 1. What features best predict a song having a better chart postion?
 
 
- MySQL was used to find the answers to most of the questions with the exception of what features best predict a song having a better chart postion? A Multiple Linear Regression model was condcuted to see the factors that statistically contrubited to a song having a higher chart postion. The script as well as more detail explanasion about the thought process for each question can be found in the file....
+ MySQL was used to find the answers to most of the questions with the exception of what features best predict a song having a better chart postion? A Multiple Linear Regression model was condcuted to see the factors that statistically contrubited to a song having a higher chart postion. The script as well as more detail explanation about the thought process for each question can be found in the file....
 
 The results of each question were stored a as csv files and exported to Power BI for visulization. As mentioned before a Power BI dashboard was created to demonstarae the results obtained. Furthermore, Python was also used to visulize statistically significancy or the predictive/advanced analysis. The last few visuals were simple bar charts and scatter plots from Excel to showcase a few of the remaining questions. 
 
 ## Results 
 ![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100/blob/main/regression%20coefficient%20plot.png?raw=true)
-In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using various libraires and the results can be found in the file...The main variables used were number of artists, song length, log spotify streams, and genre type. 
+In order to determine the best features that predict a song having better chart postion, a Multiple Linear Regression model was use. In Python, code for the model was written up using various libraires and the results can be found in the file OLS_Regression_Results_Billboard. The main variables used were number of artists, song length, log spotify streams, and genre type. 
 
 The image above is a regression coefficinet plot that shows the coefficients from the model for each varible and highlights in green the ones that are statsticalaly siginficant (have a p value < 0.05). The three varabiles that were highlighted were log spotify streams, latin, and Christmas. Although latin and christmas are statsticaly siginifcant, their coefficients are postivie. In the context of our model a postive coefficient indecates a lower chart postion or a higher number, when the goal is to get closer to one. It is best to foucus on log spotify streams as it had a negative coffeicient meaning a higher chart postion or a lower number closer to one. 
 
